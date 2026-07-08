@@ -30,6 +30,13 @@
   .busca-time:focus{outline:none;border-color:var(--grama) !important}
   .linha-tabela:hover{background:#F2F6F3}
   :focus-visible{outline:3px solid var(--ambar);outline-offset:2px}
+  /* Mobile: esconde o menu de navegação e o trevo decorativo do hero
+     (no design original eles só apareciam no desktop) e evita rolagem lateral */
+  html,body{overflow-x:hidden}
+  @media (max-width:760px){
+    .nav-desktop{display:none !important}
+    .hero-clover{display:none !important}
+  }
 </style>
 </head>
 <body>
