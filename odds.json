@@ -1,0 +1,181 @@
+{
+  "atualizado_em": "2026-07-08T15:45:29.438090-03:00",
+  "titulo": "Odds do dia",
+  "jogos": [
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Ponte Preta",
+      "fora_time": "Criciuma",
+      "inicio": "08/07 · 20h00",
+      "data_iso": "2026-07-08T23:00:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Ponte Preta",
+          "melhor_odd": 7.0,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.7,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Criciuma",
+          "melhor_odd": 1.7,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.4,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.7,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏆 Copa do Mundo",
+      "casa_time": "France",
+      "fora_time": "Morocco",
+      "inicio": "09/07 · 17h00",
+      "data_iso": "2026-07-09T20:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "France",
+          "melhor_odd": 1.61,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.08,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Morocco",
+          "melhor_odd": 7.2,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.08,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.91,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏆 Copa do Mundo",
+      "casa_time": "Spain",
+      "fora_time": "Belgium",
+      "inicio": "10/07 · 16h00",
+      "data_iso": "2026-07-10T19:00:00Z",
+      "dia_label": "Sexta, 10/07",
+      "mercados": [
+        {
+          "resultado": "Spain",
+          "melhor_odd": 1.67,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.13,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Belgium",
+          "melhor_odd": 6.2,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.9,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.1,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Juventude",
+      "fora_time": "Vila Nova",
+      "inicio": "10/07 · 19h00",
+      "data_iso": "2026-07-10T22:00:00Z",
+      "dia_label": "Sexta, 10/07",
+      "mercados": [
+        {
+          "resultado": "Juventude",
+          "melhor_odd": 1.87,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.3,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Vila Nova",
+          "melhor_odd": 5.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.56,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.57,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Sport Recife",
+      "fora_time": "Botafogo",
+      "inicio": "10/07 · 20h00",
+      "data_iso": "2026-07-10T23:00:00Z",
+      "dia_label": "Sexta, 10/07",
+      "mercados": [
+        {
+          "resultado": "Sport Recife",
+          "melhor_odd": 1.88,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.39,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Botafogo",
+          "melhor_odd": 4.9,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.28,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.68,
+          "casa": "Matchbook"
+        }
+      ]
+    }
+  ]
+}

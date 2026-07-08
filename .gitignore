@@ -1,0 +1,18 @@
+# Segredos / configuração local — NUNCA commitar
+.env
+.env.*
+*.local.py
+bot_local.py
+secrets.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Sistema operacional / editores
+.DS_Store
+.vscode/
+.idea/
