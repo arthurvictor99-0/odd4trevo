@@ -1,213 +1,38 @@
 {
-  "atualizado_em": "2026-07-08T16:06:33.731878-03:00",
+  "atualizado_em": "2026-07-11T10:06:42.583324-03:00",
   "titulo": "Odds do dia",
   "jogos": [
-    {
-      "campeonato": "🇧🇷 Brasileirão Série B",
-      "casa_time": "Ponte Preta",
-      "fora_time": "Criciuma",
-      "inicio": "08/07 · 20h00",
-      "data_iso": "2026-07-08T23:00:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Ponte Preta",
-          "melhor_odd": 6.8,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.8,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Criciuma",
-          "melhor_odd": 1.67,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.38,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.7,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🏆 Copa do Mundo",
-      "casa_time": "France",
-      "fora_time": "Morocco",
-      "inicio": "09/07 · 17h00",
-      "data_iso": "2026-07-09T20:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "France",
-          "melhor_odd": 1.61,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.08,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Morocco",
-          "melhor_odd": 7.2,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.08,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.91,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🏆 Copa do Mundo",
-      "casa_time": "Spain",
-      "fora_time": "Belgium",
-      "inicio": "10/07 · 16h00",
-      "data_iso": "2026-07-10T19:00:00Z",
-      "dia_label": "Sexta, 10/07",
-      "mercados": [
-        {
-          "resultado": "Spain",
-          "melhor_odd": 1.67,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.18,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Belgium",
-          "melhor_odd": 6.2,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.85,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.12,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série B",
-      "casa_time": "Juventude",
-      "fora_time": "Vila Nova",
-      "inicio": "10/07 · 19h00",
-      "data_iso": "2026-07-10T22:00:00Z",
-      "dia_label": "Sexta, 10/07",
-      "mercados": [
-        {
-          "resultado": "Juventude",
-          "melhor_odd": 1.87,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.3,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Vila Nova",
-          "melhor_odd": 5.1,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.52,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.58,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série B",
-      "casa_time": "Sport Recife",
-      "fora_time": "Botafogo",
-      "inicio": "10/07 · 20h00",
-      "data_iso": "2026-07-10T23:00:00Z",
-      "dia_label": "Sexta, 10/07",
-      "mercados": [
-        {
-          "resultado": "Sport Recife",
-          "melhor_odd": 1.88,
-          "casa": "Betsson"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.39,
-          "casa": "Pinnacle"
-        },
-        {
-          "resultado": "Botafogo",
-          "melhor_odd": 4.9,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.28,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.68,
-          "casa": "Matchbook"
-        }
-      ]
-    },
     {
       "campeonato": "🏆 Copa do Mundo",
       "casa_time": "Norway",
       "fora_time": "England",
       "inicio": "11/07 · 18h00",
       "data_iso": "2026-07-11T21:00:00Z",
-      "dia_label": "Sábado, 11/07",
+      "dia_label": "Hoje",
       "mercados": [
         {
           "resultado": "Norway",
-          "melhor_odd": 4.5,
+          "melhor_odd": 4.1,
           "casa": "Betfair"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.85,
-          "casa": "Betfair"
+          "melhor_odd": 3.83,
+          "casa": "1xBet"
         },
         {
           "resultado": "England",
-          "melhor_odd": 1.92,
-          "casa": "Betsson"
+          "melhor_odd": 2.0,
+          "casa": "Betfair"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.8,
-          "casa": "Betsson"
+          "melhor_odd": 1.73,
+          "casa": "William Hill"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.09,
+          "melhor_odd": 2.25,
           "casa": "1xBet"
         }
       ]
@@ -218,32 +43,32 @@
       "fora_time": "Switzerland",
       "inicio": "11/07 · 22h00",
       "data_iso": "2026-07-12T01:00:00Z",
-      "dia_label": "Sábado, 11/07",
+      "dia_label": "Hoje",
       "mercados": [
         {
           "resultado": "Argentina",
-          "melhor_odd": 1.79,
-          "casa": "1xBet"
+          "melhor_odd": 1.75,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.7,
+          "melhor_odd": 3.75,
           "casa": "Betfair"
         },
         {
           "resultado": "Switzerland",
-          "melhor_odd": 6.0,
-          "casa": "Matchbook"
+          "melhor_odd": 6.06,
+          "casa": "Pinnacle"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.26,
-          "casa": "1xBet"
+          "melhor_odd": 2.32,
+          "casa": "Betsson"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.68,
-          "casa": "Betsson"
+          "melhor_odd": 1.72,
+          "casa": "1xBet"
         }
       ]
     },
@@ -253,21 +78,21 @@
       "fora_time": "Grêmio Novorizontino",
       "inicio": "12/07 · 11h00",
       "data_iso": "2026-07-12T14:00:00Z",
-      "dia_label": "Domingo, 12/07",
+      "dia_label": "Amanhã",
       "mercados": [
         {
           "resultado": "Operario PR",
-          "melhor_odd": 2.4,
-          "casa": "Pinnacle"
+          "melhor_odd": 2.6,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.0,
-          "casa": "Betsson"
+          "melhor_odd": 3.15,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Grêmio Novorizontino",
-          "melhor_odd": 3.48,
+          "melhor_odd": 3.01,
           "casa": "Pinnacle"
         },
         {
@@ -277,8 +102,8 @@
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.65,
-          "casa": "1xBet"
+          "melhor_odd": 1.68,
+          "casa": "Matchbook"
         }
       ]
     },
@@ -288,32 +113,32 @@
       "fora_time": "Nautico PE",
       "inicio": "12/07 · 16h00",
       "data_iso": "2026-07-12T19:00:00Z",
-      "dia_label": "Domingo, 12/07",
+      "dia_label": "Amanhã",
       "mercados": [
         {
           "resultado": "Avai",
-          "melhor_odd": 3.13,
-          "casa": "Pinnacle"
+          "melhor_odd": 3.15,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.0,
-          "casa": "Betsson"
+          "melhor_odd": 3.1,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Nautico PE",
-          "melhor_odd": 2.58,
-          "casa": "Pinnacle"
+          "melhor_odd": 2.56,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.25,
-          "casa": "William Hill"
+          "melhor_odd": 2.34,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.57,
-          "casa": "William Hill"
+          "melhor_odd": 1.63,
+          "casa": "Matchbook"
         }
       ]
     },
@@ -323,22 +148,22 @@
       "fora_time": "Cuiabá",
       "inicio": "12/07 · 16h00",
       "data_iso": "2026-07-12T19:00:00Z",
-      "dia_label": "Domingo, 12/07",
+      "dia_label": "Amanhã",
       "mercados": [
         {
           "resultado": "São Bernardo",
-          "melhor_odd": 2.35,
-          "casa": "Betsson"
+          "melhor_odd": 2.56,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.05,
+          "melhor_odd": 3.0,
           "casa": "Pinnacle"
         },
         {
           "resultado": "Cuiabá",
-          "melhor_odd": 3.35,
-          "casa": "Pinnacle"
+          "melhor_odd": 3.3,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Mais de 2.5 gols",
@@ -358,32 +183,32 @@
       "fora_time": "Fortaleza",
       "inicio": "12/07 · 18h00",
       "data_iso": "2026-07-12T21:00:00Z",
-      "dia_label": "Domingo, 12/07",
+      "dia_label": "Amanhã",
       "mercados": [
         {
           "resultado": "Atletico Goianiense",
-          "melhor_odd": 2.34,
-          "casa": "Pinnacle"
+          "melhor_odd": 2.42,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.0,
-          "casa": "Betsson"
+          "melhor_odd": 3.15,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Fortaleza",
-          "melhor_odd": 3.45,
+          "melhor_odd": 3.5,
           "casa": "Pinnacle"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.1,
-          "casa": "William Hill"
+          "melhor_odd": 2.24,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.7,
-          "casa": "1xBet"
+          "melhor_odd": 1.68,
+          "casa": "Matchbook"
         }
       ]
     },
@@ -393,31 +218,31 @@
       "fora_time": "Goiás",
       "inicio": "12/07 · 19h00",
       "data_iso": "2026-07-12T22:00:00Z",
-      "dia_label": "Domingo, 12/07",
+      "dia_label": "Amanhã",
       "mercados": [
         {
           "resultado": "Clube de Regatas Brasil",
-          "melhor_odd": 1.9,
-          "casa": "Betsson"
+          "melhor_odd": 1.96,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.61,
-          "casa": "Pinnacle"
+          "melhor_odd": 3.55,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Goiás",
-          "melhor_odd": 4.34,
-          "casa": "Pinnacle"
+          "melhor_odd": 4.4,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.96,
-          "casa": "Pinnacle"
+          "melhor_odd": 2.0,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.86,
+          "melhor_odd": 1.88,
           "casa": "Pinnacle"
         }
       ]
@@ -432,28 +257,28 @@
       "mercados": [
         {
           "resultado": "América Mineiro",
-          "melhor_odd": 2.0,
-          "casa": "William Hill"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.52,
-          "casa": "Pinnacle"
-        },
-        {
-          "resultado": "Londrina",
-          "melhor_odd": 4.3,
+          "melhor_odd": 2.04,
           "casa": "Betfair"
         },
         {
+          "resultado": "Empate",
+          "melhor_odd": 3.55,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Londrina",
+          "melhor_odd": 4.1,
+          "casa": "Matchbook"
+        },
+        {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.05,
-          "casa": "William Hill"
+          "melhor_odd": 2.1,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.73,
-          "casa": "William Hill"
+          "melhor_odd": 1.79,
+          "casa": "Matchbook"
         }
       ]
     },
@@ -467,27 +292,237 @@
       "mercados": [
         {
           "resultado": "Ceará",
-          "melhor_odd": 2.02,
+          "melhor_odd": 1.96,
           "casa": "Betfair"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.2,
-          "casa": "Betsson"
+          "melhor_odd": 3.25,
+          "casa": "Betfair"
         },
         {
           "resultado": "Athletic Club (MG)",
-          "melhor_odd": 4.39,
-          "casa": "Pinnacle"
+          "melhor_odd": 4.7,
+          "casa": "Betfair"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.31,
+          "melhor_odd": 2.33,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.58,
+          "melhor_odd": 1.6,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏆 Copa do Mundo",
+      "casa_time": "France",
+      "fora_time": "Spain",
+      "inicio": "14/07 · 16h00",
+      "data_iso": "2026-07-14T19:00:00Z",
+      "dia_label": "Terça, 14/07",
+      "mercados": [
+        {
+          "resultado": "France",
+          "melhor_odd": 2.46,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.34,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Spain",
+          "melhor_odd": 3.35,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.0,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.97,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Botafogo",
+      "fora_time": "Santos",
+      "inicio": "16/07 · 19h30",
+      "data_iso": "2026-07-16T22:30:00Z",
+      "dia_label": "Quinta, 16/07",
+      "mercados": [
+        {
+          "resultado": "Botafogo",
+          "melhor_odd": 2.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.65,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Santos",
+          "melhor_odd": 3.75,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.89,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.96,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Vitoria",
+      "fora_time": "Vasco da Gama",
+      "inicio": "16/07 · 19h30",
+      "data_iso": "2026-07-16T22:30:00Z",
+      "dia_label": "Quinta, 16/07",
+      "mercados": [
+        {
+          "resultado": "Vitoria",
+          "melhor_odd": 2.4,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.33,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Vasco da Gama",
+          "melhor_odd": 3.2,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.1,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.84,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Bahia",
+      "fora_time": "Chapecoense",
+      "inicio": "17/07 · 19h30",
+      "data_iso": "2026-07-17T22:30:00Z",
+      "dia_label": "Sexta, 17/07",
+      "mercados": [
+        {
+          "resultado": "Bahia",
+          "melhor_odd": 1.45,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.92,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Chapecoense",
+          "melhor_odd": 6.94,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.61,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.38,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Fluminense",
+      "fora_time": "Bragantino-SP",
+      "inicio": "17/07 · 20h00",
+      "data_iso": "2026-07-17T23:00:00Z",
+      "dia_label": "Sexta, 17/07",
+      "mercados": [
+        {
+          "resultado": "Fluminense",
+          "melhor_odd": 1.97,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.39,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Bragantino-SP",
+          "melhor_odd": 4.4,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.09,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.77,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Mirassol",
+      "fora_time": "Grêmio",
+      "inicio": "17/07 · 20h00",
+      "data_iso": "2026-07-17T23:00:00Z",
+      "dia_label": "Sexta, 17/07",
+      "mercados": [
+        {
+          "resultado": "Mirassol",
+          "melhor_odd": 2.0,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.44,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Grêmio",
+          "melhor_odd": 4.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.15,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.74,
           "casa": "1xBet"
         }
       ]
