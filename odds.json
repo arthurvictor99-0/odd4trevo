@@ -1,453 +1,348 @@
 {
-  "atualizado_em": "2026-08-29T13:04:36.263593-03:00",
+  "atualizado_em": "2026-09-05T11:25:20.097893-03:00",
   "titulo": "Odds do dia",
   "jogos": [
     {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Tottenham Hotspur",
-      "fora_time": "Newcastle United",
-      "inicio": "29/08 · 13h30",
-      "data_iso": "2026-08-29T16:30:00Z",
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "RC Lens",
+      "fora_time": "Lorient",
+      "inicio": "05/09 · 12h15",
+      "data_iso": "2026-09-05T15:15:00Z",
       "dia_label": "Hoje",
       "mercados": [
         {
-          "resultado": "Tottenham Hotspur",
-          "melhor_odd": 2.3,
+          "resultado": "RC Lens",
+          "melhor_odd": 1.58,
           "casa": "1xBet"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.8,
+          "melhor_odd": 4.7,
           "casa": "Betfair"
         },
         {
-          "resultado": "Newcastle United",
-          "melhor_odd": 3.25,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.72,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.31,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Fiorentina",
-      "fora_time": "Frosinone",
-      "inicio": "29/08 · 13h30",
-      "data_iso": "2026-08-29T16:30:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Fiorentina",
-          "melhor_odd": 1.76,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.19,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Frosinone",
-          "melhor_odd": 5.2,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.76,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.28,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Monza",
-      "fora_time": "Udinese",
-      "inicio": "29/08 · 13h30",
-      "data_iso": "2026-08-29T16:30:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Monza",
-          "melhor_odd": 3.15,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.21,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Udinese",
-          "melhor_odd": 2.7,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.48,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.66,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Sassuolo",
-      "fora_time": "Torino",
-      "inicio": "29/08 · 13h30",
-      "data_iso": "2026-08-29T16:30:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Sassuolo",
-          "melhor_odd": 2.4,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.35,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Torino",
-          "melhor_odd": 3.45,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.12,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.88,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇩🇪 Bundesliga",
-      "casa_time": "Borussia Dortmund",
-      "fora_time": "Hamburger SV",
-      "inicio": "29/08 · 13h30",
-      "data_iso": "2026-08-29T16:30:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Borussia Dortmund",
-          "melhor_odd": 1.37,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 5.9,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Hamburger SV",
-          "melhor_odd": 9.6,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.43,
-          "casa": "Betsson"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.8,
-          "casa": "William Hill"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇪🇸 La Liga",
-      "casa_time": "Real Sociedad",
-      "fora_time": "Espanyol",
-      "inicio": "29/08 · 14h00",
-      "data_iso": "2026-08-29T17:00:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Real Sociedad",
-          "melhor_odd": 1.91,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.85,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Espanyol",
-          "melhor_odd": 4.6,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.84,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.11,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Juventus",
-      "fora_time": "Parma",
-      "inicio": "29/08 · 15h45",
-      "data_iso": "2026-08-29T18:45:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Juventus",
-          "melhor_odd": 1.26,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
+          "resultado": "Lorient",
           "melhor_odd": 6.6,
           "casa": "Betfair"
         },
         {
-          "resultado": "Parma",
-          "melhor_odd": 16.0,
-          "casa": "Betfair"
-        },
-        {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.79,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.24,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇫🇷 Ligue 1",
-      "casa_time": "Auxerre",
-      "fora_time": "Angers",
-      "inicio": "29/08 · 15h45",
-      "data_iso": "2026-08-29T18:45:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Auxerre",
-          "melhor_odd": 2.14,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.56,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Angers",
-          "melhor_odd": 4.0,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.11,
+          "melhor_odd": 1.69,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.84,
+          "melhor_odd": 2.36,
           "casa": "1xBet"
         }
       ]
     },
     {
-      "campeonato": "🇫🇷 Ligue 1",
-      "casa_time": "Brest",
-      "fora_time": "Toulouse",
-      "inicio": "29/08 · 15h45",
-      "data_iso": "2026-08-29T18:45:00Z",
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Inter Milan",
+      "fora_time": "Napoli",
+      "inicio": "05/09 · 13h00",
+      "data_iso": "2026-09-05T16:00:00Z",
       "dia_label": "Hoje",
       "mercados": [
         {
-          "resultado": "Brest",
-          "melhor_odd": 2.77,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.5,
+          "resultado": "Inter Milan",
+          "melhor_odd": 1.72,
           "casa": "Betfair"
         },
         {
-          "resultado": "Toulouse",
-          "melhor_odd": 2.82,
+          "resultado": "Empate",
+          "melhor_odd": 3.95,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Napoli",
+          "melhor_odd": 5.9,
           "casa": "Betfair"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.99,
-          "casa": "1xBet"
+          "melhor_odd": 2.02,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Menos de 2.5 gols",
           "melhor_odd": 1.95,
-          "casa": "1xBet"
+          "casa": "Matchbook"
         }
       ]
     },
     {
-      "campeonato": "🇫🇷 Ligue 1",
-      "casa_time": "Lyon",
-      "fora_time": "Le Havre",
-      "inicio": "29/08 · 15h45",
-      "data_iso": "2026-08-29T18:45:00Z",
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Hull City",
+      "fora_time": "Aston Villa",
+      "inicio": "05/09 · 13h30",
+      "data_iso": "2026-09-05T16:30:00Z",
       "dia_label": "Hoje",
       "mercados": [
         {
-          "resultado": "Lyon",
-          "melhor_odd": 1.51,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.72,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Le Havre",
-          "melhor_odd": 7.6,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.81,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.17,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇫🇷 Ligue 1",
-      "casa_time": "Lorient",
-      "fora_time": "Troyes",
-      "inicio": "29/08 · 15h45",
-      "data_iso": "2026-08-29T18:45:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Lorient",
-          "melhor_odd": 1.93,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.69,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Troyes",
-          "melhor_odd": 4.6,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.14,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.83,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇪🇸 La Liga",
-      "casa_time": "Sevilla",
-      "fora_time": "Atlético Madrid",
-      "inicio": "29/08 · 16h30",
-      "data_iso": "2026-08-29T19:30:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Sevilla",
+          "resultado": "Hull City",
           "melhor_odd": 4.5,
           "casa": "Betfair"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.54,
+          "melhor_odd": 3.85,
           "casa": "1xBet"
         },
         {
-          "resultado": "Atlético Madrid",
-          "melhor_odd": 2.03,
-          "casa": "1xBet"
+          "resultado": "Aston Villa",
+          "melhor_odd": 1.91,
+          "casa": "Betfair"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.2,
+          "melhor_odd": 1.96,
           "casa": "Matchbook"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.84,
+          "melhor_odd": 2.02,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Rayo Vallecano",
+      "fora_time": "Real Racing Club de Santander",
+      "inicio": "05/09 · 13h30",
+      "data_iso": "2026-09-05T16:30:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Rayo Vallecano",
+          "melhor_odd": 2.07,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.7,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Real Racing Club de Santander",
+          "melhor_odd": 3.95,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.79,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.19,
           "casa": "1xBet"
         }
       ]
     },
     {
-      "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Atletico Mineiro",
-      "fora_time": "Vitoria",
-      "inicio": "29/08 · 18h30",
-      "data_iso": "2026-08-29T21:30:00Z",
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "FC Schalke 04",
+      "fora_time": "Bayern Munich",
+      "inicio": "05/09 · 13h30",
+      "data_iso": "2026-09-05T16:30:00Z",
       "dia_label": "Hoje",
       "mercados": [
         {
-          "resultado": "Atletico Mineiro",
+          "resultado": "FC Schalke 04",
+          "melhor_odd": 18.0,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 9.6,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Bayern Munich",
+          "melhor_odd": 1.19,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.22,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 4.25,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "AS Roma",
+      "fora_time": "Atalanta BC",
+      "inicio": "05/09 · 15h45",
+      "data_iso": "2026-09-05T18:45:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "AS Roma",
+          "melhor_odd": 1.72,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.2,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Atalanta BC",
+          "melhor_odd": 5.6,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.78,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.26,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Le Havre",
+      "fora_time": "Brest",
+      "inicio": "05/09 · 15h45",
+      "data_iso": "2026-09-05T18:45:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Le Havre",
+          "melhor_odd": 2.88,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.4,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Brest",
+          "melhor_odd": 2.78,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.07,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
           "melhor_odd": 1.88,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Nice",
+      "fora_time": "Le Mans FC",
+      "inicio": "05/09 · 15h45",
+      "data_iso": "2026-09-05T18:45:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Nice",
+          "melhor_odd": 1.82,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.0,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Le Mans FC",
+          "melhor_odd": 4.9,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.84,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.12,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Bragantino-SP",
+      "fora_time": "Bahia",
+      "inicio": "05/09 · 16h00",
+      "data_iso": "2026-09-05T19:00:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Bragantino-SP",
+          "melhor_odd": 2.12,
           "casa": "Matchbook"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.6,
-          "casa": "1xBet"
+          "melhor_odd": 3.75,
+          "casa": "Betfair"
         },
         {
-          "resultado": "Vitoria",
-          "melhor_odd": 5.1,
-          "casa": "Matchbook"
+          "resultado": "Bahia",
+          "melhor_odd": 3.75,
+          "casa": "Betfair"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.12,
+          "melhor_odd": 1.83,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.18,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Grêmio Novorizontino",
+      "fora_time": "Avai",
+      "inicio": "05/09 · 16h00",
+      "data_iso": "2026-09-05T19:00:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Grêmio Novorizontino",
+          "melhor_odd": 1.52,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.4,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Avai",
+          "melhor_odd": 7.65,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.08,
           "casa": "Matchbook"
         },
         {
@@ -459,15 +354,15 @@
     },
     {
       "campeonato": "🇧🇷 Brasileirão Série B",
-      "casa_time": "Botafogo-SP",
-      "fora_time": "Cuiabá",
-      "inicio": "29/08 · 18h30",
-      "data_iso": "2026-08-29T21:30:00Z",
+      "casa_time": "Goiás",
+      "fora_time": "Fortaleza",
+      "inicio": "05/09 · 16h00",
+      "data_iso": "2026-09-05T19:00:00Z",
       "dia_label": "Hoje",
       "mercados": [
         {
-          "resultado": "Botafogo-SP",
-          "melhor_odd": 2.2,
+          "resultado": "Goiás",
+          "melhor_odd": 2.7,
           "casa": "Matchbook"
         },
         {
@@ -476,13 +371,83 @@
           "casa": "Matchbook"
         },
         {
-          "resultado": "Cuiabá",
+          "resultado": "Fortaleza",
+          "melhor_odd": 3.15,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.74,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.55,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Villarreal",
+      "fora_time": "Deportivo La Coruña",
+      "inicio": "05/09 · 16h00",
+      "data_iso": "2026-09-05T19:00:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Villarreal",
+          "melhor_odd": 1.52,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.9,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Deportivo La Coruña",
+          "melhor_odd": 7.6,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.71,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.33,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Juventude",
+      "fora_time": "Atletico Goianiense",
+      "inicio": "05/09 · 18h00",
+      "data_iso": "2026-09-05T21:00:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Juventude",
+          "melhor_odd": 2.18,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.0,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Atletico Goianiense",
           "melhor_odd": 4.3,
           "casa": "Matchbook"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.75,
+          "melhor_odd": 2.7,
           "casa": "William Hill"
         },
         {
@@ -495,795 +460,25 @@
     {
       "campeonato": "🇧🇷 Brasileirão Série A",
       "casa_time": "Sao Paulo",
-      "fora_time": "Bragantino-SP",
-      "inicio": "29/08 · 20h00",
-      "data_iso": "2026-08-29T23:00:00Z",
+      "fora_time": "Atletico Mineiro",
+      "inicio": "05/09 · 18h30",
+      "data_iso": "2026-09-05T21:30:00Z",
       "dia_label": "Hoje",
       "mercados": [
         {
           "resultado": "Sao Paulo",
-          "melhor_odd": 2.28,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.35,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Bragantino-SP",
-          "melhor_odd": 3.7,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.26,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.76,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Vasco da Gama",
-      "fora_time": "Cruzeiro",
-      "inicio": "29/08 · 21h20",
-      "data_iso": "2026-08-30T00:20:00Z",
-      "dia_label": "Hoje",
-      "mercados": [
-        {
-          "resultado": "Vasco da Gama",
-          "melhor_odd": 2.1,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.5,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Cruzeiro",
-          "melhor_odd": 4.1,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.18,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.81,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Leeds United",
-      "fora_time": "Brentford",
-      "inicio": "30/08 · 10h00",
-      "data_iso": "2026-08-30T13:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Leeds United",
-          "melhor_odd": 2.7,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.5,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Brentford",
-          "melhor_odd": 2.84,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.0,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.98,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Chelsea",
-      "fora_time": "Brighton and Hove Albion",
-      "inicio": "30/08 · 10h00",
-      "data_iso": "2026-08-30T13:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Chelsea",
-          "melhor_odd": 1.89,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.1,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Brighton and Hove Albion",
-          "melhor_odd": 4.4,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.74,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.27,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Sunderland",
-      "fora_time": "Fulham",
-      "inicio": "30/08 · 10h00",
-      "data_iso": "2026-08-30T13:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Sunderland",
-          "melhor_odd": 2.54,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.4,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Fulham",
-          "melhor_odd": 3.2,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.12,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.87,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇫🇷 Ligue 1",
-      "casa_time": "Paris FC",
-      "fora_time": "Nice",
-      "inicio": "30/08 · 10h00",
-      "data_iso": "2026-08-30T13:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Paris FC",
           "melhor_odd": 2.16,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.5,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Nice",
-          "melhor_odd": 4.0,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.11,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.84,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇩🇪 Bundesliga",
-      "casa_time": "SC Freiburg",
-      "fora_time": "Werder Bremen",
-      "inicio": "30/08 · 10h30",
-      "data_iso": "2026-08-30T13:30:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "SC Freiburg",
-          "melhor_odd": 1.99,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.85,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Werder Bremen",
-          "melhor_odd": 4.16,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.81,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.15,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Atletico Paranaense",
-      "fora_time": "Fluminense",
-      "inicio": "30/08 · 11h00",
-      "data_iso": "2026-08-30T14:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Atletico Paranaense",
-          "melhor_odd": 2.32,
           "casa": "Matchbook"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.3,
+          "melhor_odd": 3.44,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Atletico Mineiro",
+          "melhor_odd": 4.2,
           "casa": "Betfair"
-        },
-        {
-          "resultado": "Fluminense",
-          "melhor_odd": 3.6,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.36,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.67,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇪🇸 La Liga",
-      "casa_time": "Real Madrid",
-      "fora_time": "Málaga",
-      "inicio": "30/08 · 12h00",
-      "data_iso": "2026-08-30T15:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Real Madrid",
-          "melhor_odd": 1.14,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 11.5,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Málaga",
-          "melhor_odd": 27.0,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.32,
-          "casa": "Betsson"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 3.4,
-          "casa": "William Hill"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇫🇷 Ligue 1",
-      "casa_time": "Rennes",
-      "fora_time": "Le Mans FC",
-      "inicio": "30/08 · 12h15",
-      "data_iso": "2026-08-30T15:15:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Rennes",
-          "melhor_odd": 1.47,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 5.1,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Le Mans FC",
-          "melhor_odd": 7.6,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.55,
-          "casa": "William Hill"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.45,
-          "casa": "William Hill"
-        }
-      ]
-    },
-    {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Manchester United",
-      "fora_time": "Ipswich Town",
-      "inicio": "30/08 · 12h30",
-      "data_iso": "2026-08-30T15:30:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Manchester United",
-          "melhor_odd": 1.44,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 5.2,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Ipswich Town",
-          "melhor_odd": 8.4,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.65,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.45,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇩🇪 Bundesliga",
-      "casa_time": "Augsburg",
-      "fora_time": "FC Schalke 04",
-      "inicio": "30/08 · 12h30",
-      "data_iso": "2026-08-30T15:30:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Augsburg",
-          "melhor_odd": 2.25,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.8,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "FC Schalke 04",
-          "melhor_odd": 3.35,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.77,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.23,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Napoli",
-      "fora_time": "Como",
-      "inicio": "30/08 · 13h30",
-      "data_iso": "2026-08-30T16:30:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Napoli",
-          "melhor_odd": 2.64,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.15,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Como",
-          "melhor_odd": 3.2,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.54,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.63,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇪🇸 La Liga",
-      "casa_time": "Deportivo La Coruña",
-      "fora_time": "Valencia",
-      "inicio": "30/08 · 14h30",
-      "data_iso": "2026-08-30T17:30:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Deportivo La Coruña",
-          "melhor_odd": 2.64,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.15,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Valencia",
-          "melhor_odd": 3.25,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.52,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.65,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Cagliari",
-      "fora_time": "Inter Milan",
-      "inicio": "30/08 · 15h45",
-      "data_iso": "2026-08-30T18:45:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Cagliari",
-          "melhor_odd": 9.2,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.72,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Inter Milan",
-          "melhor_odd": 1.46,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.94,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.0,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Lazio",
-      "fora_time": "Genoa",
-      "inicio": "30/08 · 15h45",
-      "data_iso": "2026-08-30T18:45:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Lazio",
-          "melhor_odd": 2.18,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.2,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Genoa",
-          "melhor_odd": 4.3,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.52,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.62,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇫🇷 Ligue 1",
-      "casa_time": "AS Monaco",
-      "fora_time": "Marseille",
-      "inicio": "30/08 · 15h45",
-      "data_iso": "2026-08-30T18:45:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "AS Monaco",
-          "melhor_odd": 2.52,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.8,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Marseille",
-          "melhor_odd": 2.92,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.55,
-          "casa": "William Hill"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.4,
-          "casa": "William Hill"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Flamengo",
-      "fora_time": "Botafogo",
-      "inicio": "30/08 · 16h00",
-      "data_iso": "2026-08-30T19:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Flamengo",
-          "melhor_odd": 1.43,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.94,
-          "casa": "Pinnacle"
-        },
-        {
-          "resultado": "Botafogo",
-          "melhor_odd": 7.6,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.66,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.28,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Corinthians",
-      "fora_time": "Santos",
-      "inicio": "30/08 · 16h00",
-      "data_iso": "2026-08-30T19:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Corinthians",
-          "melhor_odd": 1.9,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.45,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Santos",
-          "melhor_odd": 4.6,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.24,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.68,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série B",
-      "casa_time": "América Mineiro",
-      "fora_time": "Ponte Preta",
-      "inicio": "30/08 · 16h00",
-      "data_iso": "2026-08-30T19:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "América Mineiro",
-          "melhor_odd": 1.21,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 7.0,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Ponte Preta",
-          "melhor_odd": 20.0,
-          "casa": "Marathon"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.66,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.26,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série B",
-      "casa_time": "Avai",
-      "fora_time": "Atletico Goianiense",
-      "inicio": "30/08 · 16h00",
-      "data_iso": "2026-08-30T19:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Avai",
-          "melhor_odd": 2.54,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.0,
-          "casa": "Betsson"
-        },
-        {
-          "resultado": "Atletico Goianiense",
-          "melhor_odd": 3.08,
-          "casa": "Pinnacle"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.42,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.6,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇪🇸 La Liga",
-      "casa_time": "Celta Vigo",
-      "fora_time": "Athletic Bilbao",
-      "inicio": "30/08 · 16h30",
-      "data_iso": "2026-08-30T19:30:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Celta Vigo",
-          "melhor_odd": 2.52,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.4,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Athletic Bilbao",
-          "melhor_odd": 3.2,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.18,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.83,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série B",
-      "casa_time": "Clube de Regatas Brasil",
-      "fora_time": "Criciuma",
-      "inicio": "30/08 · 18h00",
-      "data_iso": "2026-08-30T21:00:00Z",
-      "dia_label": "Amanhã",
-      "mercados": [
-        {
-          "resultado": "Clube de Regatas Brasil",
-          "melhor_odd": 2.3,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 2.92,
-          "casa": "Betsson"
-        },
-        {
-          "resultado": "Criciuma",
-          "melhor_odd": 3.74,
-          "casa": "Pinnacle"
         },
         {
           "resultado": "Mais de 2.5 gols",
@@ -1292,73 +487,598 @@
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.6,
+          "melhor_odd": 1.72,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Ceará",
+      "fora_time": "Sport Recife",
+      "inicio": "05/09 · 18h30",
+      "data_iso": "2026-09-05T21:30:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Ceará",
+          "melhor_odd": 2.44,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.2,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Sport Recife",
+          "melhor_odd": 3.45,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.4,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.68,
           "casa": "Matchbook"
         }
       ]
     },
     {
       "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Grêmio",
-      "fora_time": "Chapecoense",
-      "inicio": "30/08 · 18h30",
-      "data_iso": "2026-08-30T21:30:00Z",
-      "dia_label": "Amanhã",
+      "casa_time": "Fluminense",
+      "fora_time": "Vasco da Gama",
+      "inicio": "05/09 · 21h00",
+      "data_iso": "2026-09-06T00:00:00Z",
+      "dia_label": "Hoje",
       "mercados": [
         {
-          "resultado": "Grêmio",
-          "melhor_odd": 1.58,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.17,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Chapecoense",
-          "melhor_odd": 6.6,
+          "resultado": "Fluminense",
+          "melhor_odd": 2.3,
           "casa": "Betfair"
         },
         {
+          "resultado": "Empate",
+          "melhor_odd": 3.42,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Vasco da Gama",
+          "melhor_odd": 3.65,
+          "casa": "Matchbook"
+        },
+        {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.89,
+          "melhor_odd": 2.26,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.77,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Everton",
+      "fora_time": "Manchester United",
+      "inicio": "06/09 · 10h00",
+      "data_iso": "2026-09-06T13:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Everton",
+          "melhor_odd": 3.55,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.75,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Manchester United",
+          "melhor_odd": 2.2,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.73,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.96,
+          "melhor_odd": 2.28,
           "casa": "1xBet"
         }
       ]
     },
     {
-      "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Mirassol",
-      "fora_time": "Palmeiras",
-      "inicio": "30/08 · 18h30",
-      "data_iso": "2026-08-30T21:30:00Z",
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Frosinone",
+      "fora_time": "Venezia",
+      "inicio": "06/09 · 10h00",
+      "data_iso": "2026-09-06T13:00:00Z",
       "dia_label": "Amanhã",
       "mercados": [
         {
-          "resultado": "Mirassol",
-          "melhor_odd": 3.85,
-          "casa": "Matchbook"
+          "resultado": "Frosinone",
+          "melhor_odd": 2.92,
+          "casa": "Betfair"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.37,
+          "melhor_odd": 3.5,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Venezia",
+          "melhor_odd": 2.66,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.91,
           "casa": "1xBet"
         },
         {
-          "resultado": "Palmeiras",
+          "resultado": "Menos de 2.5 gols",
           "melhor_odd": 2.12,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Parma",
+      "fora_time": "Monza",
+      "inicio": "06/09 · 10h00",
+      "data_iso": "2026-09-06T13:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Parma",
+          "melhor_odd": 2.72,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.17,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Monza",
+          "melhor_odd": 3.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.45,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.66,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Troyes",
+      "fora_time": "Strasbourg",
+      "inicio": "06/09 · 10h00",
+      "data_iso": "2026-09-06T13:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Troyes",
+          "melhor_odd": 3.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.55,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Strasbourg",
+          "melhor_odd": 2.48,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.93,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.01,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "Hamburger SV",
+      "fora_time": "FSV Mainz 05",
+      "inicio": "06/09 · 10h30",
+      "data_iso": "2026-09-06T13:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Hamburger SV",
+          "melhor_odd": 2.98,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.7,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "FSV Mainz 05",
+          "melhor_odd": 2.52,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.79,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.24,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Coritiba",
+      "fora_time": "Mirassol",
+      "inicio": "06/09 · 11h00",
+      "data_iso": "2026-09-06T14:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Coritiba",
+          "melhor_odd": 2.46,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.31,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mirassol",
+          "melhor_odd": 3.25,
           "casa": "Matchbook"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.07,
+          "melhor_odd": 2.3,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.7,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Londrina",
+      "fora_time": "Operario PR",
+      "inicio": "06/09 · 11h00",
+      "data_iso": "2026-09-06T14:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Londrina",
+          "melhor_odd": 2.32,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.3,
           "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Operario PR",
+          "melhor_odd": 3.24,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.18,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.73,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Valencia",
+      "fora_time": "Barcelona",
+      "inicio": "06/09 · 11h15",
+      "data_iso": "2026-09-06T14:15:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Valencia",
+          "melhor_odd": 10.5,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 6.6,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Barcelona",
+          "melhor_odd": 1.32,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.37,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 3.05,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Angers",
+      "fora_time": "Rennes",
+      "inicio": "06/09 · 12h15",
+      "data_iso": "2026-09-06T15:15:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Angers",
+          "melhor_odd": 4.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.0,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Rennes",
+          "melhor_odd": 1.94,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.75,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.25,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Arsenal",
+      "fora_time": "Chelsea",
+      "inicio": "06/09 · 12h30",
+      "data_iso": "2026-09-06T15:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Arsenal",
+          "melhor_odd": 1.77,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Chelsea",
+          "melhor_odd": 5.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.77,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.26,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "Eintracht Frankfurt",
+      "fora_time": "Augsburg",
+      "inicio": "06/09 · 12h30",
+      "data_iso": "2026-09-06T15:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Eintracht Frankfurt",
+          "melhor_odd": 2.04,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.2,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Augsburg",
+          "melhor_odd": 3.6,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.46,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.68,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Bologna",
+      "fora_time": "Sassuolo",
+      "inicio": "06/09 · 13h00",
+      "data_iso": "2026-09-06T16:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Bologna",
+          "melhor_odd": 2.1,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.55,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Sassuolo",
+          "melhor_odd": 4.0,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.12,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.85,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Alavés",
+      "fora_time": "CA Osasuna",
+      "inicio": "06/09 · 13h30",
+      "data_iso": "2026-09-06T16:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Alavés",
+          "melhor_odd": 2.38,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.19,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "CA Osasuna",
+          "melhor_odd": 3.75,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.57,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.6,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Málaga",
+      "fora_time": "Levante",
+      "inicio": "06/09 · 13h30",
+      "data_iso": "2026-09-06T16:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Málaga",
+          "melhor_odd": 2.48,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.4,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Levante",
+          "melhor_odd": 3.2,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.0,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.97,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Juventus",
+      "fora_time": "AC Milan",
+      "inicio": "06/09 · 15h45",
+      "data_iso": "2026-09-06T18:45:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Juventus",
+          "melhor_odd": 2.16,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.4,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "AC Milan",
+          "melhor_odd": 3.95,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.19,
+          "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
@@ -1368,67 +1088,277 @@
       ]
     },
     {
-      "campeonato": "🇧🇷 Brasileirão Série B",
-      "casa_time": "Vila Nova",
-      "fora_time": "Ceará",
-      "inicio": "30/08 · 18h30",
-      "data_iso": "2026-08-30T21:30:00Z",
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Marseille",
+      "fora_time": "Paris FC",
+      "inicio": "06/09 · 15h45",
+      "data_iso": "2026-09-06T18:45:00Z",
       "dia_label": "Amanhã",
       "mercados": [
         {
-          "resultado": "Vila Nova",
-          "melhor_odd": 1.96,
-          "casa": "Matchbook"
+          "resultado": "Marseille",
+          "melhor_odd": 1.87,
+          "casa": "Betfair"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.39,
-          "casa": "Pinnacle"
+          "melhor_odd": 4.1,
+          "casa": "Betfair"
         },
         {
-          "resultado": "Ceará",
-          "melhor_odd": 4.5,
-          "casa": "Matchbook"
+          "resultado": "Paris FC",
+          "melhor_odd": 4.4,
+          "casa": "Betfair"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.24,
-          "casa": "Matchbook"
+          "melhor_odd": 1.71,
+          "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.65,
-          "casa": "Matchbook"
+          "melhor_odd": 2.32,
+          "casa": "1xBet"
         }
       ]
     },
     {
       "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Bahia",
-      "fora_time": "Internacional",
-      "inicio": "30/08 · 19h30",
-      "data_iso": "2026-08-30T22:30:00Z",
+      "casa_time": "Cruzeiro",
+      "fora_time": "Atletico Paranaense",
+      "inicio": "06/09 · 16h00",
+      "data_iso": "2026-09-06T19:00:00Z",
       "dia_label": "Amanhã",
       "mercados": [
         {
-          "resultado": "Bahia",
-          "melhor_odd": 1.9,
-          "casa": "1xBet"
+          "resultado": "Cruzeiro",
+          "melhor_odd": 1.94,
+          "casa": "Betfair"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.67,
+          "melhor_odd": 3.6,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Atletico Paranaense",
+          "melhor_odd": 4.39,
           "casa": "Pinnacle"
         },
         {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.12,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.75,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Remo",
+      "fora_time": "Flamengo",
+      "inicio": "06/09 · 16h00",
+      "data_iso": "2026-09-06T19:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Remo",
+          "melhor_odd": 7.6,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.58,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Flamengo",
+          "melhor_odd": 1.49,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.78,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.1,
+          "casa": "William Hill"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Internacional",
+      "fora_time": "Santos",
+      "inicio": "06/09 · 16h00",
+      "data_iso": "2026-09-06T19:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
           "resultado": "Internacional",
-          "melhor_odd": 4.6,
+          "melhor_odd": 2.08,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.62,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Santos",
+          "melhor_odd": 3.95,
           "casa": "Matchbook"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.94,
+          "melhor_odd": 2.02,
           "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.86,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Espanyol",
+      "fora_time": "Sevilla",
+      "inicio": "06/09 · 16h00",
+      "data_iso": "2026-09-06T19:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Espanyol",
+          "melhor_odd": 2.36,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.33,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Sevilla",
+          "melhor_odd": 3.55,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.52,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.64,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Botafogo",
+      "fora_time": "Palmeiras",
+      "inicio": "06/09 · 18h30",
+      "data_iso": "2026-09-06T21:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Botafogo",
+          "melhor_odd": 3.5,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.62,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Palmeiras",
+          "melhor_odd": 2.22,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.92,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.93,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Ponte Preta",
+      "fora_time": "São Bernardo",
+      "inicio": "06/09 · 18h30",
+      "data_iso": "2026-09-06T21:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Ponte Preta",
+          "melhor_odd": 9.8,
+          "casa": "Marathon"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 5.1,
+          "casa": "Marathon"
+        },
+        {
+          "resultado": "São Bernardo",
+          "melhor_odd": 1.3,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.67,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.1,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Corinthians",
+      "fora_time": "Chapecoense",
+      "inicio": "06/09 · 19h30",
+      "data_iso": "2026-09-06T22:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Corinthians",
+          "melhor_odd": 1.4,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.78,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Chapecoense",
+          "melhor_odd": 8.65,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.94,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Menos de 2.5 gols",
@@ -1439,60 +1369,60 @@
     },
     {
       "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Lecce",
-      "fora_time": "AS Roma",
-      "inicio": "31/08 · 13h30",
-      "data_iso": "2026-08-31T16:30:00Z",
-      "dia_label": "Segunda, 31/08",
+      "casa_time": "Cagliari",
+      "fora_time": "Lecce",
+      "inicio": "07/09 · 13h30",
+      "data_iso": "2026-09-07T16:30:00Z",
+      "dia_label": "Segunda, 07/09",
       "mercados": [
         {
-          "resultado": "Lecce",
-          "melhor_odd": 8.8,
+          "resultado": "Cagliari",
+          "melhor_odd": 2.08,
           "casa": "Betfair"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 4.43,
+          "melhor_odd": 3.35,
           "casa": "1xBet"
         },
         {
-          "resultado": "AS Roma",
-          "melhor_odd": 1.51,
+          "resultado": "Lecce",
+          "melhor_odd": 4.5,
           "casa": "Betfair"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.08,
-          "casa": "1xBet"
+          "melhor_odd": 2.48,
+          "casa": "Matchbook"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.87,
+          "melhor_odd": 1.68,
           "casa": "1xBet"
         }
       ]
     },
     {
       "campeonato": "🇪🇸 La Liga",
-      "casa_time": "CA Osasuna",
-      "fora_time": "Getafe",
-      "inicio": "31/08 · 14h30",
-      "data_iso": "2026-08-31T17:30:00Z",
-      "dia_label": "Segunda, 31/08",
+      "casa_time": "Getafe",
+      "fora_time": "Celta Vigo",
+      "inicio": "07/09 · 14h00",
+      "data_iso": "2026-09-07T17:00:00Z",
+      "dia_label": "Segunda, 07/09",
       "mercados": [
         {
-          "resultado": "CA Osasuna",
-          "melhor_odd": 2.25,
+          "resultado": "Getafe",
+          "melhor_odd": 2.54,
           "casa": "1xBet"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.13,
+          "melhor_odd": 2.98,
           "casa": "1xBet"
         },
         {
-          "resultado": "Getafe",
-          "melhor_odd": 4.1,
+          "resultado": "Celta Vigo",
+          "melhor_odd": 3.65,
           "casa": "Betfair"
         },
         {
@@ -1509,200 +1439,375 @@
     },
     {
       "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Atalanta BC",
-      "fora_time": "Bologna",
-      "inicio": "31/08 · 15h45",
-      "data_iso": "2026-08-31T18:45:00Z",
-      "dia_label": "Segunda, 31/08",
+      "casa_time": "Udinese",
+      "fora_time": "Lazio",
+      "inicio": "07/09 · 15h45",
+      "data_iso": "2026-09-07T18:45:00Z",
+      "dia_label": "Segunda, 07/09",
       "mercados": [
         {
-          "resultado": "Atalanta BC",
-          "melhor_odd": 1.99,
+          "resultado": "Udinese",
+          "melhor_odd": 3.05,
           "casa": "Betfair"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.75,
+          "melhor_odd": 3.21,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Lazio",
+          "melhor_odd": 2.78,
           "casa": "Betfair"
         },
         {
-          "resultado": "Bologna",
-          "melhor_odd": 4.25,
-          "casa": "1xBet"
-        },
-        {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.02,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.97,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Aston Villa",
-      "fora_time": "Arsenal",
-      "inicio": "31/08 · 16h00",
-      "data_iso": "2026-08-31T19:00:00Z",
-      "dia_label": "Segunda, 31/08",
-      "mercados": [
-        {
-          "resultado": "Aston Villa",
-          "melhor_odd": 7.0,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.41,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Arsenal",
-          "melhor_odd": 1.58,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.89,
+          "melhor_odd": 2.42,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.1,
-          "casa": "Matchbook"
+          "melhor_odd": 1.66,
+          "casa": "1xBet"
         }
       ]
     },
     {
       "campeonato": "🇪🇸 La Liga",
-      "casa_time": "Barcelona",
-      "fora_time": "Rayo Vallecano",
-      "inicio": "31/08 · 16h30",
-      "data_iso": "2026-08-31T19:30:00Z",
-      "dia_label": "Segunda, 31/08",
+      "casa_time": "Elche CF",
+      "fora_time": "Real Sociedad",
+      "inicio": "07/09 · 16h30",
+      "data_iso": "2026-09-07T19:30:00Z",
+      "dia_label": "Segunda, 07/09",
       "mercados": [
         {
-          "resultado": "Barcelona",
-          "melhor_odd": 1.19,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 9.6,
+          "resultado": "Elche CF",
+          "melhor_odd": 3.1,
           "casa": "Betfair"
         },
         {
-          "resultado": "Rayo Vallecano",
-          "melhor_odd": 20.0,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.35,
-          "casa": "Betsson"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 3.15,
-          "casa": "Betsson"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série B",
-      "casa_time": "Fortaleza",
-      "fora_time": "Operario PR",
-      "inicio": "31/08 · 19h30",
-      "data_iso": "2026-08-31T22:30:00Z",
-      "dia_label": "Segunda, 31/08",
-      "mercados": [
-        {
-          "resultado": "Fortaleza",
-          "melhor_odd": 1.71,
-          "casa": "Pinnacle"
-        },
-        {
           "resultado": "Empate",
-          "melhor_odd": 3.56,
-          "casa": "Pinnacle"
+          "melhor_odd": 3.65,
+          "casa": "Betfair"
         },
         {
-          "resultado": "Operario PR",
-          "melhor_odd": 5.13,
-          "casa": "Pinnacle"
+          "resultado": "Real Sociedad",
+          "melhor_odd": 2.46,
+          "casa": "1xBet"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.12,
-          "casa": "Matchbook"
+          "melhor_odd": 1.87,
+          "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.73,
-          "casa": "William Hill"
+          "melhor_odd": 2.2,
+          "casa": "Matchbook"
         }
       ]
     },
     {
       "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Remo",
-      "fora_time": "Coritiba",
-      "inicio": "31/08 · 20h00",
-      "data_iso": "2026-08-31T23:00:00Z",
-      "dia_label": "Segunda, 31/08",
+      "casa_time": "Vitoria",
+      "fora_time": "Grêmio",
+      "inicio": "07/09 · 20h00",
+      "data_iso": "2026-09-07T23:00:00Z",
+      "dia_label": "Segunda, 07/09",
       "mercados": [
         {
-          "resultado": "Remo",
-          "melhor_odd": 2.14,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.34,
+          "resultado": "Vitoria",
+          "melhor_odd": 2.15,
           "casa": "Pinnacle"
         },
         {
-          "resultado": "Coritiba",
-          "melhor_odd": 3.75,
-          "casa": "Matchbook"
+          "resultado": "Empate",
+          "melhor_odd": 3.44,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Grêmio",
+          "melhor_odd": 3.55,
+          "casa": "1xBet"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.14,
+          "melhor_odd": 2.16,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.73,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "AEK Athens",
+      "fora_time": "LASK",
+      "inicio": "08/09 · 13h45",
+      "data_iso": "2026-09-08T16:45:00Z",
+      "dia_label": "Terça, 08/09",
+      "mercados": [
+        {
+          "resultado": "AEK Athens",
+          "melhor_odd": 1.81,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.07,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "LASK",
+          "melhor_odd": 4.52,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.68,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.75,
+          "melhor_odd": 2.32,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Club Brugge",
+      "fora_time": "Aston Villa",
+      "inicio": "08/09 · 13h45",
+      "data_iso": "2026-09-08T16:45:00Z",
+      "dia_label": "Terça, 08/09",
+      "mercados": [
+        {
+          "resultado": "Club Brugge",
+          "melhor_odd": 2.88,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.95,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Aston Villa",
+          "melhor_odd": 2.5,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.72,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.24,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Borussia Dortmund",
+      "fora_time": "Villarreal",
+      "inicio": "08/09 · 16h00",
+      "data_iso": "2026-09-08T19:00:00Z",
+      "dia_label": "Terça, 08/09",
+      "mercados": [
+        {
+          "resultado": "Borussia Dortmund",
+          "melhor_odd": 1.81,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.17,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Villarreal",
+          "melhor_odd": 4.3,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.55,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.5,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Real Madrid",
+      "fora_time": "Inter Milan",
+      "inicio": "08/09 · 16h00",
+      "data_iso": "2026-09-08T19:00:00Z",
+      "dia_label": "Terça, 08/09",
+      "mercados": [
+        {
+          "resultado": "Real Madrid",
+          "melhor_odd": 1.68,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.5,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Inter Milan",
+          "melhor_odd": 5.55,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.57,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.54,
           "casa": "Matchbook"
         }
       ]
     },
     {
-      "campeonato": "🇧🇷 Brasileirão Série B",
-      "casa_time": "Londrina",
-      "fora_time": "Juventude",
-      "inicio": "01/09 · 19h30",
-      "data_iso": "2026-09-01T22:30:00Z",
-      "dia_label": "Terça, 01/09",
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Lille",
+      "fora_time": "Real Betis",
+      "inicio": "08/09 · 16h00",
+      "data_iso": "2026-09-08T19:00:00Z",
+      "dia_label": "Terça, 08/09",
       "mercados": [
         {
-          "resultado": "Londrina",
-          "melhor_odd": 3.24,
-          "casa": "Pinnacle"
+          "resultado": "Lille",
+          "melhor_odd": 2.26,
+          "casa": "Betfair"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 2.87,
+          "melhor_odd": 3.65,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Real Betis",
+          "melhor_odd": 3.35,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.86,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.05,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Porto",
+      "fora_time": "Manchester City",
+      "inicio": "08/09 · 16h00",
+      "data_iso": "2026-09-08T19:00:00Z",
+      "dia_label": "Terça, 08/09",
+      "mercados": [
+        {
+          "resultado": "Porto",
+          "melhor_odd": 4.8,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.07,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Manchester City",
+          "melhor_odd": 1.76,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.72,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.26,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏆 Libertadores",
+      "casa_time": "Fluminense-RJ",
+      "fora_time": "Platense",
+      "inicio": "08/09 · 19h00",
+      "data_iso": "2026-09-08T22:00:00Z",
+      "dia_label": "Terça, 08/09",
+      "mercados": [
+        {
+          "resultado": "Fluminense-RJ",
+          "melhor_odd": 1.5,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.95,
           "casa": "Pinnacle"
         },
         {
-          "resultado": "Juventude",
-          "melhor_odd": 2.51,
+          "resultado": "Platense",
+          "melhor_odd": 8.3,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.42,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.59,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Cuiabá",
+      "fora_time": "Athletic Club (MG)",
+      "inicio": "08/09 · 20h30",
+      "data_iso": "2026-09-08T23:30:00Z",
+      "dia_label": "Terça, 08/09",
+      "mercados": [
+        {
+          "resultado": "Cuiabá",
+          "melhor_odd": 1.8,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.22,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Athletic Club (MG)",
+          "melhor_odd": 5.27,
           "casa": "Pinnacle"
         },
         {
@@ -1718,377 +1823,377 @@
       ]
     },
     {
-      "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Flamengo",
-      "fora_time": "Mirassol",
-      "inicio": "02/09 · 19h30",
-      "data_iso": "2026-09-02T22:30:00Z",
-      "dia_label": "Quarta, 02/09",
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Barcelona",
+      "fora_time": "Feyenoord",
+      "inicio": "09/09 · 13h45",
+      "data_iso": "2026-09-09T16:45:00Z",
+      "dia_label": "Quarta, 09/09",
       "mercados": [
         {
-          "resultado": "Flamengo",
-          "melhor_odd": 1.28,
-          "casa": "Betsson"
+          "resultado": "Barcelona",
+          "melhor_odd": 1.14,
+          "casa": "Betfair"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 5.97,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mirassol",
-          "melhor_odd": 11.1,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.63,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.33,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇩🇪 Bundesliga",
-      "casa_time": "VfB Stuttgart",
-      "fora_time": "1. FC Köln",
-      "inicio": "04/09 · 15h30",
-      "data_iso": "2026-09-04T18:30:00Z",
-      "dia_label": "Sexta, 04/09",
-      "mercados": [
-        {
-          "resultado": "VfB Stuttgart",
-          "melhor_odd": 1.49,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 5.18,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "1. FC Köln",
-          "melhor_odd": 6.55,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.33,
-          "casa": "William Hill"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 3.35,
-          "casa": "Betsson"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Genoa",
-      "fora_time": "Como",
-      "inicio": "04/09 · 15h45",
-      "data_iso": "2026-09-04T18:45:00Z",
-      "dia_label": "Sexta, 04/09",
-      "mercados": [
-        {
-          "resultado": "Genoa",
-          "melhor_odd": 5.49,
+          "melhor_odd": 11.6,
           "casa": "Pinnacle"
         },
         {
-          "resultado": "Empate",
-          "melhor_odd": 3.38,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Como",
-          "melhor_odd": 1.86,
-          "casa": "1xBet"
+          "resultado": "Feyenoord",
+          "melhor_odd": 23.0,
+          "casa": "Betsson"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.39,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.68,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Ipswich Town",
-      "fora_time": "Liverpool",
-      "inicio": "04/09 · 16h00",
-      "data_iso": "2026-09-04T19:00:00Z",
-      "dia_label": "Sexta, 04/09",
-      "mercados": [
-        {
-          "resultado": "Ipswich Town",
-          "melhor_odd": 5.5,
-          "casa": "Matchbook"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.51,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Liverpool",
-          "melhor_odd": 1.68,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.64,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.46,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇪🇸 La Liga",
-      "casa_time": "Real Betis",
-      "fora_time": "Real Madrid",
-      "inicio": "04/09 · 16h00",
-      "data_iso": "2026-09-04T19:00:00Z",
-      "dia_label": "Sexta, 04/09",
-      "mercados": [
-        {
-          "resultado": "Real Betis",
-          "melhor_odd": 5.1,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.7,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Real Madrid",
-          "melhor_odd": 1.81,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.7,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.62,
-          "casa": "Matchbook"
-        }
-      ]
-    },
-    {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Newcastle United",
-      "fora_time": "Bournemouth",
-      "inicio": "05/09 · 08h30",
-      "data_iso": "2026-09-05T11:30:00Z",
-      "dia_label": "Sábado, 05/09",
-      "mercados": [
-        {
-          "resultado": "Newcastle United",
-          "melhor_odd": 2.41,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.8,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Bournemouth",
-          "melhor_odd": 2.96,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.65,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.45,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Fiorentina",
-      "fora_time": "Torino",
-      "inicio": "05/09 · 10h00",
-      "data_iso": "2026-09-05T13:00:00Z",
-      "dia_label": "Sábado, 05/09",
-      "mercados": [
-        {
-          "resultado": "Fiorentina",
-          "melhor_odd": 1.92,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.35,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Torino",
-          "melhor_odd": 5.06,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.25,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.75,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇩🇪 Bundesliga",
-      "casa_time": "Bayer Leverkusen",
-      "fora_time": "Union Berlin",
-      "inicio": "05/09 · 10h30",
-      "data_iso": "2026-09-05T13:30:00Z",
-      "dia_label": "Sábado, 05/09",
-      "mercados": [
-        {
-          "resultado": "Bayer Leverkusen",
-          "melhor_odd": 1.53,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 4.88,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Union Berlin",
-          "melhor_odd": 6.3,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.47,
+          "melhor_odd": 1.23,
           "casa": "Betsson"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.75,
+          "melhor_odd": 4.4,
           "casa": "William Hill"
         }
       ]
     },
     {
-      "campeonato": "🇩🇪 Bundesliga",
-      "casa_time": "TSG Hoffenheim",
-      "fora_time": "Borussia Dortmund",
-      "inicio": "05/09 · 10h30",
-      "data_iso": "2026-09-05T13:30:00Z",
-      "dia_label": "Sábado, 05/09",
+      "campeonato": "⭐ Champions League",
+      "casa_time": "VfB Stuttgart",
+      "fora_time": "Viking FK",
+      "inicio": "09/09 · 13h45",
+      "data_iso": "2026-09-09T16:45:00Z",
+      "dia_label": "Quarta, 09/09",
       "mercados": [
         {
-          "resultado": "TSG Hoffenheim",
-          "melhor_odd": 2.69,
+          "resultado": "VfB Stuttgart",
+          "melhor_odd": 1.26,
           "casa": "1xBet"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 4.01,
+          "melhor_odd": 6.84,
           "casa": "1xBet"
         },
         {
-          "resultado": "Borussia Dortmund",
-          "melhor_odd": 2.53,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.46,
+          "resultado": "Viking FK",
+          "melhor_odd": 12.5,
           "casa": "Betsson"
         },
         {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.29,
+          "casa": "William Hill"
+        },
+        {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.68,
+          "melhor_odd": 3.8,
           "casa": "Betsson"
         }
       ]
     },
     {
-      "campeonato": "🇩🇪 Bundesliga",
-      "casa_time": "Borussia Monchengladbach",
-      "fora_time": "Elversberg",
-      "inicio": "05/09 · 10h30",
-      "data_iso": "2026-09-05T13:30:00Z",
-      "dia_label": "Sábado, 05/09",
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Napoli",
+      "fora_time": "Arsenal",
+      "inicio": "09/09 · 16h00",
+      "data_iso": "2026-09-09T19:00:00Z",
+      "dia_label": "Quarta, 09/09",
       "mercados": [
         {
-          "resultado": "Borussia Monchengladbach",
+          "resultado": "Napoli",
+          "melhor_odd": 4.5,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.84,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Arsenal",
+          "melhor_odd": 1.92,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.95,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.95,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Liverpool",
+      "fora_time": "Atlético Madrid",
+      "inicio": "09/09 · 16h00",
+      "data_iso": "2026-09-09T19:00:00Z",
+      "dia_label": "Quarta, 09/09",
+      "mercados": [
+        {
+          "resultado": "Liverpool",
+          "melhor_odd": 1.76,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.2,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Atlético Madrid",
+          "melhor_odd": 4.8,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
           "melhor_odd": 1.66,
           "casa": "1xBet"
         },
         {
-          "resultado": "Empate",
-          "melhor_odd": 4.26,
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.4,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Sporting Lisbon",
+      "fora_time": "Galatasaray",
+      "inicio": "09/09 · 16h00",
+      "data_iso": "2026-09-09T19:00:00Z",
+      "dia_label": "Quarta, 09/09",
+      "mercados": [
+        {
+          "resultado": "Sporting Lisbon",
+          "melhor_odd": 1.95,
           "casa": "1xBet"
         },
         {
-          "resultado": "Elversberg",
-          "melhor_odd": 5.64,
+          "resultado": "Empate",
+          "melhor_odd": 3.83,
           "casa": "1xBet"
+        },
+        {
+          "resultado": "Galatasaray",
+          "melhor_odd": 4.0,
+          "casa": "Betsson"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.64,
+          "melhor_odd": 1.74,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.46,
+          "melhor_odd": 2.23,
           "casa": "1xBet"
         }
       ]
     },
     {
-      "campeonato": "🇩🇪 Bundesliga",
-      "casa_time": "Werder Bremen",
-      "fora_time": "RB Leipzig",
-      "inicio": "05/09 · 10h30",
-      "data_iso": "2026-09-05T13:30:00Z",
-      "dia_label": "Sábado, 05/09",
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Paris Saint Germain",
+      "fora_time": "ŠK Slovan Bratislava",
+      "inicio": "09/09 · 16h00",
+      "data_iso": "2026-09-09T19:00:00Z",
+      "dia_label": "Quarta, 09/09",
       "mercados": [
         {
-          "resultado": "Werder Bremen",
-          "melhor_odd": 3.4,
+          "resultado": "Paris Saint Germain",
+          "melhor_odd": 1.08,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 21.67,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "ŠK Slovan Bratislava",
+          "melhor_odd": 46.0,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.25,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 4.0,
+          "casa": "William Hill"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏆 Libertadores",
+      "casa_time": "Palmeiras-SP",
+      "fora_time": "LDU Quito",
+      "inicio": "09/09 · 19h00",
+      "data_iso": "2026-09-09T22:00:00Z",
+      "dia_label": "Quarta, 09/09",
+      "mercados": [
+        {
+          "resultado": "Palmeiras-SP",
+          "melhor_odd": 1.26,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 5.77,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "LDU Quito",
+          "melhor_odd": 15.5,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.98,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.86,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "América Mineiro",
+      "fora_time": "Nautico PE",
+      "inicio": "09/09 · 20h30",
+      "data_iso": "2026-09-09T23:30:00Z",
+      "dia_label": "Quarta, 09/09",
+      "mercados": [
+        {
+          "resultado": "América Mineiro",
+          "melhor_odd": 2.34,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.22,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Nautico PE",
+          "melhor_odd": 3.15,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.04,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.79,
+          "casa": "Pinnacle"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏆 Libertadores",
+      "casa_time": "Estudiantes La Plata",
+      "fora_time": "Corinthians-SP",
+      "inicio": "09/09 · 21h30",
+      "data_iso": "2026-09-10T00:30:00Z",
+      "dia_label": "Quarta, 09/09",
+      "mercados": [
+        {
+          "resultado": "Estudiantes La Plata",
+          "melhor_odd": 2.25,
           "casa": "1xBet"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.96,
+          "melhor_odd": 3.04,
           "casa": "1xBet"
         },
         {
-          "resultado": "RB Leipzig",
-          "melhor_odd": 2.13,
+          "resultado": "Corinthians-SP",
+          "melhor_odd": 3.71,
           "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.91,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.4,
+          "casa": "William Hill"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Fenerbahce",
+      "fora_time": "AS Roma",
+      "inicio": "10/09 · 13h45",
+      "data_iso": "2026-09-10T16:45:00Z",
+      "dia_label": "Quinta, 10/09",
+      "mercados": [
+        {
+          "resultado": "Fenerbahce",
+          "melhor_odd": 2.82,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.6,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "AS Roma",
+          "melhor_odd": 2.63,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.9,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.0,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "PSV Eindhoven",
+      "fora_time": "Shakhtar Donetsk",
+      "inicio": "10/09 · 13h45",
+      "data_iso": "2026-09-10T16:45:00Z",
+      "dia_label": "Quinta, 10/09",
+      "mercados": [
+        {
+          "resultado": "PSV Eindhoven",
+          "melhor_odd": 1.46,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 5.03,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Shakhtar Donetsk",
+          "melhor_odd": 7.4,
+          "casa": "Betfair"
         },
         {
           "resultado": "Mais de 2.5 gols",
@@ -2097,72 +2202,247 @@
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.5,
+          "melhor_odd": 2.55,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Bayern Munich",
+      "fora_time": "Bodø/Glimt",
+      "inicio": "10/09 · 16h00",
+      "data_iso": "2026-09-10T19:00:00Z",
+      "dia_label": "Quinta, 10/09",
+      "mercados": [
+        {
+          "resultado": "Bayern Munich",
+          "melhor_odd": 1.16,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 10.06,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Bodø/Glimt",
+          "melhor_odd": 18.5,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.18,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 5.0,
           "casa": "William Hill"
         }
       ]
     },
     {
-      "campeonato": "🇩🇪 Bundesliga",
-      "casa_time": "SC Paderborn",
-      "fora_time": "SC Freiburg",
-      "inicio": "05/09 · 10h30",
-      "data_iso": "2026-09-05T13:30:00Z",
-      "dia_label": "Sábado, 05/09",
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Como",
+      "fora_time": "RB Leipzig",
+      "inicio": "10/09 · 16h00",
+      "data_iso": "2026-09-10T19:00:00Z",
+      "dia_label": "Quinta, 10/09",
       "mercados": [
         {
-          "resultado": "SC Paderborn",
-          "melhor_odd": 2.92,
+          "resultado": "Como",
+          "melhor_odd": 2.01,
           "casa": "1xBet"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.65,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "SC Freiburg",
-          "melhor_odd": 2.53,
+          "melhor_odd": 3.84,
           "casa": "1xBet"
         },
         {
+          "resultado": "RB Leipzig",
+          "melhor_odd": 3.9,
+          "casa": "Matchbook"
+        },
+        {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.75,
+          "melhor_odd": 1.68,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.25,
+          "melhor_odd": 2.52,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Manchester United",
+      "fora_time": "Sabah FK",
+      "inicio": "10/09 · 16h00",
+      "data_iso": "2026-09-10T19:00:00Z",
+      "dia_label": "Quinta, 10/09",
+      "mercados": [
+        {
+          "resultado": "Manchester United",
+          "melhor_odd": 1.17,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 9.0,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Sabah FK",
+          "melhor_odd": 25.0,
+          "casa": "Marathon"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.25,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 3.75,
+          "casa": "William Hill"
+        }
+      ]
+    },
+    {
+      "campeonato": "⭐ Champions League",
+      "casa_time": "Slavia Praha",
+      "fora_time": "RC Lens",
+      "inicio": "10/09 · 16h00",
+      "data_iso": "2026-09-10T19:00:00Z",
+      "dia_label": "Quinta, 10/09",
+      "mercados": [
+        {
+          "resultado": "Slavia Praha",
+          "melhor_odd": 3.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.6,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "RC Lens",
+          "melhor_odd": 2.47,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.84,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.08,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏆 Libertadores",
+      "casa_time": "Independiente del Valle",
+      "fora_time": "Flamengo-RJ",
+      "inicio": "10/09 · 21h30",
+      "data_iso": "2026-09-11T00:30:00Z",
+      "dia_label": "Quinta, 10/09",
+      "mercados": [
+        {
+          "resultado": "Independiente del Valle",
+          "melhor_odd": 2.81,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.17,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Flamengo-RJ",
+          "melhor_odd": 2.73,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.33,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.63,
           "casa": "1xBet"
         }
       ]
     },
     {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Brentford",
-      "fora_time": "Sunderland",
-      "inicio": "05/09 · 11h00",
-      "data_iso": "2026-09-05T14:00:00Z",
-      "dia_label": "Sábado, 05/09",
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "Union Berlin",
+      "fora_time": "FC Schalke 04",
+      "inicio": "11/09 · 15h30",
+      "data_iso": "2026-09-11T18:30:00Z",
+      "dia_label": "Sexta, 11/09",
       "mercados": [
         {
-          "resultado": "Brentford",
-          "melhor_odd": 1.74,
+          "resultado": "Union Berlin",
+          "melhor_odd": 2.13,
           "casa": "1xBet"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 4.0,
+          "melhor_odd": 3.9,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "FC Schalke 04",
+          "melhor_odd": 3.5,
           "casa": "1xBet"
         },
         {
-          "resultado": "Sunderland",
-          "melhor_odd": 5.5,
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.55,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.45,
+          "casa": "William Hill"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Venezia",
+      "fora_time": "Fiorentina",
+      "inicio": "11/09 · 15h45",
+      "data_iso": "2026-09-11T18:45:00Z",
+      "dia_label": "Sexta, 11/09",
+      "mercados": [
+        {
+          "resultado": "Venezia",
+          "melhor_odd": 2.93,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.44,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Fiorentina",
+          "melhor_odd": 2.66,
           "casa": "Betfair"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.91,
+          "melhor_odd": 1.92,
           "casa": "1xBet"
         },
         {
@@ -2173,62 +2453,237 @@
       ]
     },
     {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Brighton and Hove Albion",
-      "fora_time": "Leeds United",
-      "inicio": "05/09 · 11h00",
-      "data_iso": "2026-09-05T14:00:00Z",
-      "dia_label": "Sábado, 05/09",
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Rennes",
+      "fora_time": "Marseille",
+      "inicio": "11/09 · 15h45",
+      "data_iso": "2026-09-11T18:45:00Z",
+      "dia_label": "Sexta, 11/09",
       "mercados": [
         {
-          "resultado": "Brighton and Hove Albion",
-          "melhor_odd": 1.88,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.82,
+          "resultado": "Rennes",
+          "melhor_odd": 2.41,
           "casa": "1xBet"
         },
         {
-          "resultado": "Leeds United",
-          "melhor_odd": 4.57,
+          "resultado": "Empate",
+          "melhor_odd": 4.01,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Marseille",
+          "melhor_odd": 2.87,
           "casa": "1xBet"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.9,
+          "melhor_odd": 1.55,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.42,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Sevilla",
+      "fora_time": "Valencia",
+      "inicio": "11/09 · 16h00",
+      "data_iso": "2026-09-11T19:00:00Z",
+      "dia_label": "Sexta, 11/09",
+      "mercados": [
+        {
+          "resultado": "Sevilla",
+          "melhor_odd": 2.38,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.25,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Valencia",
+          "melhor_odd": 3.48,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.45,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.05,
+          "melhor_odd": 1.65,
           "casa": "1xBet"
         }
       ]
     },
     {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Manchester City",
-      "fora_time": "Coventry City",
-      "inicio": "05/09 · 11h00",
-      "data_iso": "2026-09-05T14:00:00Z",
-      "dia_label": "Sábado, 05/09",
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Coritiba",
+      "fora_time": "Atletico Paranaense",
+      "inicio": "11/09 · 21h00",
+      "data_iso": "2026-09-12T00:00:00Z",
+      "dia_label": "Sexta, 11/09",
       "mercados": [
         {
-          "resultado": "Manchester City",
-          "melhor_odd": 1.24,
+          "resultado": "Coritiba",
+          "melhor_odd": 2.84,
           "casa": "1xBet"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 7.8,
+          "melhor_odd": 3.08,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Atletico Paranaense",
+          "melhor_odd": 2.74,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.42,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.6,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Real Racing Club de Santander",
+      "fora_time": "Alavés",
+      "inicio": "12/09 · 09h00",
+      "data_iso": "2026-09-12T12:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Real Racing Club de Santander",
+          "melhor_odd": 2.52,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.55,
           "casa": "Betfair"
         },
         {
-          "resultado": "Coventry City",
-          "melhor_odd": 13.5,
+          "resultado": "Alavés",
+          "melhor_odd": 2.98,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.96,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.98,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Genoa",
+      "fora_time": "Frosinone",
+      "inicio": "12/09 · 10h00",
+      "data_iso": "2026-09-12T13:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Genoa",
+          "melhor_odd": 1.94,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.56,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Frosinone",
+          "melhor_odd": 4.65,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.28,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.75,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "Augsburg",
+      "fora_time": "Bayer Leverkusen",
+      "inicio": "12/09 · 10h30",
+      "data_iso": "2026-09-12T13:30:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Augsburg",
+          "melhor_odd": 4.42,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.47,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Bayer Leverkusen",
+          "melhor_odd": 1.83,
           "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.43,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.88,
+          "casa": "William Hill"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "Borussia Dortmund",
+      "fora_time": "SC Paderborn",
+      "inicio": "12/09 · 10h30",
+      "data_iso": "2026-09-12T13:30:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Borussia Dortmund",
+          "melhor_odd": 1.29,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 6.79,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "SC Paderborn",
+          "melhor_odd": 12.5,
+          "casa": "Betsson"
         },
         {
           "resultado": "Mais de 2.5 gols",
@@ -2237,67 +2692,592 @@
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 3.25,
-          "casa": "Matchbook"
+          "melhor_odd": 3.2,
+          "casa": "William Hill"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "SC Freiburg",
+      "fora_time": "Borussia Monchengladbach",
+      "inicio": "12/09 · 10h30",
+      "data_iso": "2026-09-12T13:30:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "SC Freiburg",
+          "melhor_odd": 1.88,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.11,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Borussia Monchengladbach",
+          "melhor_odd": 4.4,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.68,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.38,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "FSV Mainz 05",
+      "fora_time": "Eintracht Frankfurt",
+      "inicio": "12/09 · 10h30",
+      "data_iso": "2026-09-12T13:30:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "FSV Mainz 05",
+          "melhor_odd": 2.15,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.92,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Eintracht Frankfurt",
+          "melhor_odd": 3.65,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.62,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.38,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "TSG Hoffenheim",
+      "fora_time": "VfB Stuttgart",
+      "inicio": "12/09 · 10h30",
+      "data_iso": "2026-09-12T13:30:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "TSG Hoffenheim",
+          "melhor_odd": 2.45,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.03,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "VfB Stuttgart",
+          "melhor_odd": 2.79,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.44,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.85,
+          "casa": "Betsson"
         }
       ]
     },
     {
       "campeonato": "🏴 Premier League",
-      "casa_time": "Fulham",
-      "fora_time": "Crystal Palace",
-      "inicio": "05/09 · 11h00",
-      "data_iso": "2026-09-05T14:00:00Z",
-      "dia_label": "Sábado, 05/09",
+      "casa_time": "Aston Villa",
+      "fora_time": "Nottingham Forest",
+      "inicio": "12/09 · 11h00",
+      "data_iso": "2026-09-12T14:00:00Z",
+      "dia_label": "Sábado, 12/09",
       "mercados": [
         {
-          "resultado": "Fulham",
-          "melhor_odd": 2.36,
+          "resultado": "Aston Villa",
+          "melhor_odd": 2.01,
           "casa": "1xBet"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.53,
+          "melhor_odd": 3.76,
           "casa": "1xBet"
         },
         {
-          "resultado": "Crystal Palace",
-          "melhor_odd": 3.3,
+          "resultado": "Nottingham Forest",
+          "melhor_odd": 3.96,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.97,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.98,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Bournemouth",
+      "fora_time": "Brentford",
+      "inicio": "12/09 · 11h00",
+      "data_iso": "2026-09-12T14:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Bournemouth",
+          "melhor_odd": 2.69,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.8,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Brentford",
+          "melhor_odd": 2.7,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.73,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.28,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Chelsea",
+      "fora_time": "Hull City",
+      "inicio": "12/09 · 11h00",
+      "data_iso": "2026-09-12T14:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Chelsea",
+          "melhor_odd": 1.28,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 7.0,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Hull City",
+          "melhor_odd": 14.0,
           "casa": "Betfair"
         },
         {
           "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.43,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.82,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Crystal Palace",
+      "fora_time": "Ipswich Town",
+      "inicio": "12/09 · 11h00",
+      "data_iso": "2026-09-12T14:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Crystal Palace",
+          "melhor_odd": 1.96,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.81,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Ipswich Town",
+          "melhor_odd": 4.25,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.96,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
           "melhor_odd": 1.98,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Liverpool",
+      "fora_time": "Fulham",
+      "inicio": "12/09 · 11h00",
+      "data_iso": "2026-09-12T14:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Liverpool",
+          "melhor_odd": 1.49,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 5.08,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Fulham",
+          "melhor_odd": 6.8,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.48,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.68,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "CA Osasuna",
+      "fora_time": "Espanyol",
+      "inicio": "12/09 · 11h15",
+      "data_iso": "2026-09-12T14:15:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "CA Osasuna",
+          "melhor_odd": 2.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.6,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Espanyol",
+          "melhor_odd": 4.21,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.22,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.77,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Strasbourg",
+      "fora_time": "AS Monaco",
+      "inicio": "12/09 · 12h15",
+      "data_iso": "2026-09-12T15:15:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Strasbourg",
+          "melhor_odd": 3.27,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.86,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "AS Monaco",
+          "melhor_odd": 2.22,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.69,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.36,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Lazio",
+      "fora_time": "AC Milan",
+      "inicio": "12/09 · 13h00",
+      "data_iso": "2026-09-12T16:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Lazio",
+          "melhor_odd": 3.31,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.35,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "AC Milan",
+          "melhor_odd": 2.43,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.31,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.71,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Tottenham Hotspur",
+      "fora_time": "Everton",
+      "inicio": "12/09 · 13h30",
+      "data_iso": "2026-09-12T16:30:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Tottenham Hotspur",
+          "melhor_odd": 2.06,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.7,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Everton",
+          "melhor_odd": 3.84,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.97,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.97,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Athletic Bilbao",
+      "fora_time": "Elche CF",
+      "inicio": "12/09 · 13h30",
+      "data_iso": "2026-09-12T16:30:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Athletic Bilbao",
+          "melhor_odd": 1.62,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.35,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Elche CF",
+          "melhor_odd": 6.04,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.94,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
           "melhor_odd": 2.0,
-          "casa": "Matchbook"
+          "casa": "1xBet"
         }
       ]
     },
     {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Nottingham Forest",
-      "fora_time": "Tottenham Hotspur",
-      "inicio": "05/09 · 11h00",
-      "data_iso": "2026-09-05T14:00:00Z",
-      "dia_label": "Sábado, 05/09",
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "1. FC Köln",
+      "fora_time": "Werder Bremen",
+      "inicio": "12/09 · 13h30",
+      "data_iso": "2026-09-12T16:30:00Z",
+      "dia_label": "Sábado, 12/09",
       "mercados": [
         {
-          "resultado": "Nottingham Forest",
-          "melhor_odd": 2.84,
+          "resultado": "1. FC Köln",
+          "melhor_odd": 2.11,
           "casa": "1xBet"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.5,
-          "casa": "Betfair"
+          "melhor_odd": 3.86,
+          "casa": "1xBet"
         },
         {
-          "resultado": "Tottenham Hotspur",
-          "melhor_odd": 2.65,
+          "resultado": "Werder Bremen",
+          "melhor_odd": 3.54,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.69,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.36,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Atalanta BC",
+      "fora_time": "Cagliari",
+      "inicio": "12/09 · 15h45",
+      "data_iso": "2026-09-12T18:45:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Atalanta BC",
+          "melhor_odd": 1.59,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.2,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Cagliari",
+          "melhor_odd": 6.8,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.02,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.93,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Le Havre",
+      "fora_time": "Angers",
+      "inicio": "12/09 · 15h45",
+      "data_iso": "2026-09-12T18:45:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Le Havre",
+          "melhor_odd": 2.28,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.39,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Angers",
+          "melhor_odd": 3.56,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.28,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.73,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Auxerre",
+      "fora_time": "Nice",
+      "inicio": "12/09 · 15h45",
+      "data_iso": "2026-09-12T18:45:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Auxerre",
+          "melhor_odd": 2.59,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.37,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Nice",
+          "melhor_odd": 3.0,
           "casa": "1xBet"
         },
         {
@@ -2313,191 +3293,16 @@
       ]
     },
     {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "Inter Milan",
-      "fora_time": "Napoli",
-      "inicio": "05/09 · 13h00",
-      "data_iso": "2026-09-05T16:00:00Z",
-      "dia_label": "Sábado, 05/09",
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Lorient",
+      "fora_time": "Toulouse",
+      "inicio": "12/09 · 15h45",
+      "data_iso": "2026-09-12T18:45:00Z",
+      "dia_label": "Sábado, 12/09",
       "mercados": [
         {
-          "resultado": "Inter Milan",
-          "melhor_odd": 1.82,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.72,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Napoli",
-          "melhor_odd": 5.1,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.14,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.82,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🏴 Premier League",
-      "casa_time": "Hull City",
-      "fora_time": "Aston Villa",
-      "inicio": "05/09 · 13h30",
-      "data_iso": "2026-09-05T16:30:00Z",
-      "dia_label": "Sábado, 05/09",
-      "mercados": [
-        {
-          "resultado": "Hull City",
-          "melhor_odd": 4.17,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.8,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Aston Villa",
-          "melhor_odd": 1.95,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.93,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 2.01,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇩🇪 Bundesliga",
-      "casa_time": "FC Schalke 04",
-      "fora_time": "Bayern Munich",
-      "inicio": "05/09 · 13h30",
-      "data_iso": "2026-09-05T16:30:00Z",
-      "dia_label": "Sábado, 05/09",
-      "mercados": [
-        {
-          "resultado": "FC Schalke 04",
-          "melhor_odd": 10.5,
-          "casa": "Betsson"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 6.8,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Bayern Munich",
-          "melhor_odd": 1.34,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 1.37,
-          "casa": "Betsson"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 3.1,
-          "casa": "William Hill"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇮🇹 Serie A",
-      "casa_time": "AS Roma",
-      "fora_time": "Atalanta BC",
-      "inicio": "05/09 · 15h45",
-      "data_iso": "2026-09-05T18:45:00Z",
-      "dia_label": "Sábado, 05/09",
-      "mercados": [
-        {
-          "resultado": "AS Roma",
-          "melhor_odd": 1.97,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.62,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Atalanta BC",
-          "melhor_odd": 4.3,
-          "casa": "Betfair"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.07,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.88,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Bragantino-SP",
-      "fora_time": "Bahia",
-      "inicio": "05/09 · 16h00",
-      "data_iso": "2026-09-05T19:00:00Z",
-      "dia_label": "Sábado, 05/09",
-      "mercados": [
-        {
-          "resultado": "Bragantino-SP",
-          "melhor_odd": 2.16,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Empate",
-          "melhor_odd": 3.52,
-          "casa": "1xBet"
-        },
-        {
-          "resultado": "Bahia",
-          "melhor_odd": 3.55,
-          "casa": "Betsson"
-        },
-        {
-          "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.0,
-          "casa": "William Hill"
-        },
-        {
-          "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.86,
-          "casa": "1xBet"
-        }
-      ]
-    },
-    {
-      "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Sao Paulo",
-      "fora_time": "Atletico Mineiro",
-      "inicio": "05/09 · 18h30",
-      "data_iso": "2026-09-05T21:30:00Z",
-      "dia_label": "Sábado, 05/09",
-      "mercados": [
-        {
-          "resultado": "Sao Paulo",
-          "melhor_odd": 2.14,
+          "resultado": "Lorient",
+          "melhor_odd": 2.75,
           "casa": "1xBet"
         },
         {
@@ -2506,53 +3311,333 @@
           "casa": "1xBet"
         },
         {
-          "resultado": "Atletico Mineiro",
-          "melhor_odd": 3.6,
+          "resultado": "Toulouse",
+          "melhor_odd": 2.81,
           "casa": "1xBet"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.25,
+          "melhor_odd": 2.06,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.67,
+          "melhor_odd": 1.89,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Paris FC",
+      "fora_time": "Lyon",
+      "inicio": "12/09 · 15h45",
+      "data_iso": "2026-09-12T18:45:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Paris FC",
+          "melhor_odd": 2.79,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.7,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Lyon",
+          "melhor_odd": 2.58,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.75,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.25,
           "casa": "1xBet"
         }
       ]
     },
     {
       "campeonato": "🇧🇷 Brasileirão Série A",
-      "casa_time": "Fluminense",
-      "fora_time": "Vasco da Gama",
-      "inicio": "05/09 · 21h00",
-      "data_iso": "2026-09-06T00:00:00Z",
-      "dia_label": "Sábado, 05/09",
+      "casa_time": "Atletico Mineiro",
+      "fora_time": "Fluminense",
+      "inicio": "12/09 · 16h00",
+      "data_iso": "2026-09-12T19:00:00Z",
+      "dia_label": "Sábado, 12/09",
       "mercados": [
         {
-          "resultado": "Fluminense",
-          "melhor_odd": 1.78,
+          "resultado": "Atletico Mineiro",
+          "melhor_odd": 2.35,
           "casa": "1xBet"
         },
         {
           "resultado": "Empate",
-          "melhor_odd": 3.72,
+          "melhor_odd": 3.27,
           "casa": "1xBet"
         },
         {
-          "resultado": "Vasco da Gama",
-          "melhor_odd": 4.73,
-          "casa": "1xBet"
+          "resultado": "Fluminense",
+          "melhor_odd": 3.25,
+          "casa": "Betsson"
         },
         {
           "resultado": "Mais de 2.5 gols",
-          "melhor_odd": 2.08,
+          "melhor_odd": 2.27,
           "casa": "1xBet"
         },
         {
           "resultado": "Menos de 2.5 gols",
-          "melhor_odd": 1.78,
+          "melhor_odd": 1.66,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Grêmio",
+      "fora_time": "Vasco da Gama",
+      "inicio": "12/09 · 16h00",
+      "data_iso": "2026-09-12T19:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Grêmio",
+          "melhor_odd": 2.13,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.35,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Vasco da Gama",
+          "melhor_odd": 3.65,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.12,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.75,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Sunderland",
+      "fora_time": "Arsenal",
+      "inicio": "12/09 · 16h00",
+      "data_iso": "2026-09-12T19:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Sunderland",
+          "melhor_odd": 7.31,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.4,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Arsenal",
+          "melhor_odd": 1.54,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.06,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.89,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Real Madrid",
+      "fora_time": "Rayo Vallecano",
+      "inicio": "12/09 · 16h00",
+      "data_iso": "2026-09-12T19:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Real Madrid",
+          "melhor_odd": 1.16,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 9.1,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Rayo Vallecano",
+          "melhor_odd": 22.0,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.32,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 3.35,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Chapecoense",
+      "fora_time": "Internacional",
+      "inicio": "12/09 · 17h00",
+      "data_iso": "2026-09-12T20:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Chapecoense",
+          "melhor_odd": 2.94,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.3,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Internacional",
+          "melhor_odd": 2.53,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.03,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.82,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Palmeiras",
+      "fora_time": "Sao Paulo",
+      "inicio": "12/09 · 18h30",
+      "data_iso": "2026-09-12T21:30:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Palmeiras",
+          "melhor_odd": 1.7,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.83,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Sao Paulo",
+          "melhor_odd": 5.2,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.07,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.79,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Botafogo",
+      "fora_time": "Bragantino-SP",
+      "inicio": "12/09 · 20h30",
+      "data_iso": "2026-09-12T23:30:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Botafogo",
+          "melhor_odd": 2.17,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.29,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Bragantino-SP",
+          "melhor_odd": 3.6,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.04,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.82,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Santos",
+      "fora_time": "Cruzeiro",
+      "inicio": "12/09 · 21h00",
+      "data_iso": "2026-09-13T00:00:00Z",
+      "dia_label": "Sábado, 12/09",
+      "mercados": [
+        {
+          "resultado": "Santos",
+          "melhor_odd": 2.49,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.4,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Cruzeiro",
+          "melhor_odd": 2.9,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.03,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.82,
           "casa": "1xBet"
         }
       ]
