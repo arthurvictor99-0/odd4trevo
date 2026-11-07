@@ -1,5 +1,1441 @@
 {
-  "atualizado_em": "2026-10-31T13:41:43.917809-03:00",
+  "atualizado_em": "2026-11-07T14:18:02.865815-03:00",
   "titulo": "Odds do dia",
-  "jogos": []
+  "jogos": [
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Nottingham Forest",
+      "fora_time": "Manchester City",
+      "inicio": "07/11 · 14h30",
+      "data_iso": "2026-11-07T17:30:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Nottingham Forest",
+          "melhor_odd": 5.5,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.4,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Manchester City",
+          "melhor_odd": 1.69,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.68,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.44,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "CA Osasuna",
+      "fora_time": "Athletic Bilbao",
+      "inicio": "07/11 · 14h30",
+      "data_iso": "2026-11-07T17:30:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "CA Osasuna",
+          "melhor_odd": 4.2,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.55,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Athletic Bilbao",
+          "melhor_odd": 2.09,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.29,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.76,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "VfB Stuttgart",
+      "fora_time": "Werder Bremen",
+      "inicio": "07/11 · 14h30",
+      "data_iso": "2026-11-07T17:30:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "VfB Stuttgart",
+          "melhor_odd": 1.9,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.4,
+          "casa": "Marathon"
+        },
+        {
+          "resultado": "Werder Bremen",
+          "melhor_odd": 4.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.38,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 3.12,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Auxerre",
+      "fora_time": "Paris FC",
+      "inicio": "07/11 · 15h00",
+      "data_iso": "2026-11-07T18:00:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Auxerre",
+          "melhor_odd": 5.6,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.3,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Paris FC",
+          "melhor_odd": 1.69,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.81,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.18,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Avai",
+      "fora_time": "São Bernardo",
+      "inicio": "07/11 · 16h00",
+      "data_iso": "2026-11-07T19:00:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Avai",
+          "melhor_odd": 3.0,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.55,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "São Bernardo",
+          "melhor_odd": 2.56,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.02,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.87,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Grêmio Novorizontino",
+      "fora_time": "Fortaleza",
+      "inicio": "07/11 · 16h10",
+      "data_iso": "2026-11-07T19:10:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Grêmio Novorizontino",
+          "melhor_odd": 1.82,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.65,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Fortaleza",
+          "melhor_odd": 5.5,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.26,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.71,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "AS Roma",
+      "fora_time": "Sassuolo",
+      "inicio": "07/11 · 16h45",
+      "data_iso": "2026-11-07T19:45:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "AS Roma",
+          "melhor_odd": 1.37,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 6.0,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Sassuolo",
+          "melhor_odd": 9.4,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.4,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 3.0,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Valencia",
+      "fora_time": "Real Madrid",
+      "inicio": "07/11 · 17h00",
+      "data_iso": "2026-11-07T20:00:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Valencia",
+          "melhor_odd": 12.5,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 7.0,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Real Madrid",
+          "melhor_odd": 1.29,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.45,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.82,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Paris Saint Germain",
+      "fora_time": "Troyes",
+      "inicio": "07/11 · 17h05",
+      "data_iso": "2026-11-07T20:05:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Paris Saint Germain",
+          "melhor_odd": 1.22,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 9.8,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Troyes",
+          "melhor_odd": 21.0,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.36,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 3.2,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Vila Nova",
+      "fora_time": "Criciuma",
+      "inicio": "07/11 · 20h00",
+      "data_iso": "2026-11-07T23:00:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Vila Nova",
+          "melhor_odd": 2.66,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Criciuma",
+          "melhor_odd": 3.1,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.38,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.66,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Cuiabá",
+      "fora_time": "Juventude",
+      "inicio": "07/11 · 20h00",
+      "data_iso": "2026-11-07T23:00:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Cuiabá",
+          "melhor_odd": 4.3,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Juventude",
+          "melhor_odd": 2.2,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.8,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.41,
+          "casa": "Marathon"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Nautico PE",
+      "fora_time": "Clube de Regatas Brasil",
+      "inicio": "07/11 · 21h30",
+      "data_iso": "2026-11-08T00:30:00Z",
+      "dia_label": "Hoje",
+      "mercados": [
+        {
+          "resultado": "Nautico PE",
+          "melhor_odd": 7.6,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 5.4,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Clube de Regatas Brasil",
+          "melhor_odd": 1.4,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.5,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.5,
+          "casa": "William Hill"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Napoli",
+      "fora_time": "Lazio",
+      "inicio": "08/11 · 08h30",
+      "data_iso": "2026-11-08T11:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Napoli",
+          "melhor_odd": 2.42,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.73,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Lazio",
+          "melhor_odd": 3.15,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.81,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.21,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Elche CF",
+      "fora_time": "Real Betis",
+      "inicio": "08/11 · 10h00",
+      "data_iso": "2026-11-08T13:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Elche CF",
+          "melhor_odd": 3.65,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.95,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Real Betis",
+          "melhor_odd": 2.12,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.73,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.32,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Ipswich Town",
+      "fora_time": "Bournemouth",
+      "inicio": "08/11 · 11h00",
+      "data_iso": "2026-11-08T14:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Ipswich Town",
+          "melhor_odd": 4.2,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.96,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Bournemouth",
+          "melhor_odd": 1.98,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.74,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.27,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Brighton and Hove Albion",
+      "fora_time": "Brentford",
+      "inicio": "08/11 · 11h00",
+      "data_iso": "2026-11-08T14:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Brighton and Hove Albion",
+          "melhor_odd": 1.94,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.16,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Brentford",
+          "melhor_odd": 4.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.65,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.44,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Sunderland",
+      "fora_time": "Chelsea",
+      "inicio": "08/11 · 11h00",
+      "data_iso": "2026-11-08T14:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Sunderland",
+          "melhor_odd": 3.95,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.82,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Chelsea",
+          "melhor_odd": 2.06,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.87,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.09,
+          "casa": "Pinnacle"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Crystal Palace",
+      "fora_time": "Liverpool",
+      "inicio": "08/11 · 11h00",
+      "data_iso": "2026-11-08T14:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Crystal Palace",
+          "melhor_odd": 6.2,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.62,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Liverpool",
+          "melhor_odd": 1.62,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.57,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.51,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Genoa",
+      "fora_time": "AC Milan",
+      "inicio": "08/11 · 11h00",
+      "data_iso": "2026-11-08T14:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Genoa",
+          "melhor_odd": 5.0,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.73,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "AC Milan",
+          "melhor_odd": 1.89,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.18,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.81,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Monza",
+      "fora_time": "Atalanta BC",
+      "inicio": "08/11 · 11h00",
+      "data_iso": "2026-11-08T14:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Monza",
+          "melhor_odd": 3.55,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.01,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Atalanta BC",
+          "melhor_odd": 2.16,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.63,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.49,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Rennes",
+      "fora_time": "Lille",
+      "inicio": "08/11 · 11h00",
+      "data_iso": "2026-11-08T14:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Rennes",
+          "melhor_odd": 2.28,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.84,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Lille",
+          "melhor_odd": 3.4,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.75,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.25,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "1. FC Köln",
+      "fora_time": "Bayer Leverkusen",
+      "inicio": "08/11 · 11h30",
+      "data_iso": "2026-11-08T14:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "1. FC Köln",
+          "melhor_odd": 4.0,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.37,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Bayer Leverkusen",
+          "melhor_odd": 1.95,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.42,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.91,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Real Sociedad",
+      "fora_time": "Rayo Vallecano",
+      "inicio": "08/11 · 12h15",
+      "data_iso": "2026-11-08T15:15:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Real Sociedad",
+          "melhor_odd": 1.84,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.26,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Rayo Vallecano",
+          "melhor_odd": 4.67,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.64,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.52,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Le Mans FC",
+      "fora_time": "AS Monaco",
+      "inicio": "08/11 · 13h15",
+      "data_iso": "2026-11-08T16:15:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Le Mans FC",
+          "melhor_odd": 4.8,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.5,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "AS Monaco",
+          "melhor_odd": 1.8,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.64,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.46,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Angers",
+      "fora_time": "Nice",
+      "inicio": "08/11 · 13h15",
+      "data_iso": "2026-11-08T16:15:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Angers",
+          "melhor_odd": 3.6,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.84,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Nice",
+          "melhor_odd": 2.12,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.78,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.21,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Brest",
+      "fora_time": "Lyon",
+      "inicio": "08/11 · 13h15",
+      "data_iso": "2026-11-08T16:15:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Brest",
+          "melhor_odd": 2.92,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.67,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Lyon",
+          "melhor_odd": 2.62,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.9,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.05,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "Le Havre",
+      "fora_time": "Lorient",
+      "inicio": "08/11 · 13h15",
+      "data_iso": "2026-11-08T16:15:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Le Havre",
+          "melhor_odd": 3.05,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.52,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Lorient",
+          "melhor_odd": 2.64,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 2.07,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.88,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🏴 Premier League",
+      "casa_time": "Manchester United",
+      "fora_time": "Aston Villa",
+      "inicio": "08/11 · 13h30",
+      "data_iso": "2026-11-08T16:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Manchester United",
+          "melhor_odd": 2.24,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.96,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Aston Villa",
+          "melhor_odd": 3.4,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.65,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.45,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "SC Freiburg",
+      "fora_time": "Union Berlin",
+      "inicio": "08/11 · 13h30",
+      "data_iso": "2026-11-08T16:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "SC Freiburg",
+          "melhor_odd": 1.56,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.9,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Union Berlin",
+          "melhor_odd": 7.2,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.68,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.42,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Inter Milan",
+      "fora_time": "Como",
+      "inicio": "08/11 · 14h00",
+      "data_iso": "2026-11-08T17:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Inter Milan",
+          "melhor_odd": 1.99,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.21,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Como",
+          "melhor_odd": 3.8,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.5,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.69,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Celta Vigo",
+      "fora_time": "Levante",
+      "inicio": "08/11 · 14h30",
+      "data_iso": "2026-11-08T17:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Celta Vigo",
+          "melhor_odd": 1.94,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.86,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Levante",
+          "melhor_odd": 4.6,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.97,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.97,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Villarreal",
+      "fora_time": "Getafe",
+      "inicio": "08/11 · 14h30",
+      "data_iso": "2026-11-08T17:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Villarreal",
+          "melhor_odd": 1.5,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.75,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Getafe",
+          "melhor_odd": 8.2,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.87,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.08,
+          "casa": "Pinnacle"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇩🇪 Bundesliga",
+      "casa_time": "TSG Hoffenheim",
+      "fora_time": "FC Schalke 04",
+      "inicio": "08/11 · 15h30",
+      "data_iso": "2026-11-08T18:30:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "TSG Hoffenheim",
+          "melhor_odd": 1.67,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.62,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "FC Schalke 04",
+          "melhor_odd": 5.4,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.51,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.62,
+          "casa": "William Hill"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Athletic Club (MG)",
+      "fora_time": "Atletico Goianiense",
+      "inicio": "08/11 · 16h00",
+      "data_iso": "2026-11-08T19:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Athletic Club (MG)",
+          "melhor_odd": 4.5,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.65,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "Atletico Goianiense",
+          "melhor_odd": 1.85,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.96,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.85,
+          "casa": "Pinnacle"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇮🇹 Serie A",
+      "casa_time": "Fiorentina",
+      "fora_time": "Juventus",
+      "inicio": "08/11 · 16h45",
+      "data_iso": "2026-11-08T19:45:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Fiorentina",
+          "melhor_odd": 3.71,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.69,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Juventus",
+          "melhor_odd": 2.24,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.84,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.14,
+          "casa": "Matchbook"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇫🇷 Ligue 1",
+      "casa_time": "RC Lens",
+      "fora_time": "Marseille",
+      "inicio": "08/11 · 16h45",
+      "data_iso": "2026-11-08T19:45:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "RC Lens",
+          "melhor_odd": 2.4,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.11,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Marseille",
+          "melhor_odd": 3.0,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.49,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.65,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇪🇸 La Liga",
+      "casa_time": "Atlético Madrid",
+      "fora_time": "Barcelona",
+      "inicio": "08/11 · 17h00",
+      "data_iso": "2026-11-08T20:00:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Atlético Madrid",
+          "melhor_odd": 4.1,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 4.6,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Barcelona",
+          "melhor_odd": 1.85,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.32,
+          "casa": "Betsson"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 3.42,
+          "casa": "Betsson"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Ceará",
+      "fora_time": "América Mineiro",
+      "inicio": "08/11 · 19h15",
+      "data_iso": "2026-11-08T22:15:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Ceará",
+          "melhor_odd": 1.68,
+          "casa": "Matchbook"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.73,
+          "casa": "Pinnacle"
+        },
+        {
+          "resultado": "América Mineiro",
+          "melhor_odd": 5.05,
+          "casa": "Marathon"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.91,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.91,
+          "casa": "Pinnacle"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série B",
+      "casa_time": "Goiás",
+      "fora_time": "Ponte Preta",
+      "inicio": "08/11 · 19h15",
+      "data_iso": "2026-11-08T22:15:00Z",
+      "dia_label": "Amanhã",
+      "mercados": [
+        {
+          "resultado": "Goiás",
+          "melhor_odd": 1.15,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 9.6,
+          "casa": "Betfair"
+        },
+        {
+          "resultado": "Ponte Preta",
+          "melhor_odd": 19.0,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.36,
+          "casa": "William Hill"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.9,
+          "casa": "William Hill"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Mirassol",
+      "fora_time": "Atletico Mineiro",
+      "inicio": "14/11 · 18h30",
+      "data_iso": "2026-11-14T21:30:00Z",
+      "dia_label": "Sábado, 14/11",
+      "mercados": [
+        {
+          "resultado": "Mirassol",
+          "melhor_odd": 2.41,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.5,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Atletico Mineiro",
+          "melhor_odd": 2.92,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.88,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 1.96,
+          "casa": "1xBet"
+        }
+      ]
+    },
+    {
+      "campeonato": "🇧🇷 Brasileirão Série A",
+      "casa_time": "Chapecoense",
+      "fora_time": "Vasco da Gama",
+      "inicio": "14/11 · 20h30",
+      "data_iso": "2026-11-14T23:30:00Z",
+      "dia_label": "Sábado, 14/11",
+      "mercados": [
+        {
+          "resultado": "Chapecoense",
+          "melhor_odd": 4.79,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Empate",
+          "melhor_odd": 3.97,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Vasco da Gama",
+          "melhor_odd": 1.72,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Mais de 2.5 gols",
+          "melhor_odd": 1.72,
+          "casa": "1xBet"
+        },
+        {
+          "resultado": "Menos de 2.5 gols",
+          "melhor_odd": 2.18,
+          "casa": "1xBet"
+        }
+      ]
+    }
+  ]
 }
